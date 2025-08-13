@@ -1,10 +1,13 @@
 ---
 layout: card
 card_id: card3
-project_title: Tortor metus commodo
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Water
+project_summary: Providing clean and reliable water access.
+cost_to_support: $250 per well.
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>Over half of rural areas in Vietnam still do not have clean and reliable access to water. Specifically, only 34.8% of rural Vietnamese residents have access to clean water, while 84.2% of urban residents do, according to Asia News Network.</p> 
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>Even when water is accessed, it may not meet quality standards. UNICEF notes that 44% of household water samples tested positive for contamination.</p>
+
+<p>We contribute towards the development of clean wells to allow these families to get access to the fundamental building block of life.</p>

@@ -1,10 +1,11 @@
 ---
 layout: card
 card_id: card4
-project_title: Quam neque phasellus
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Food and Supplies
+cost_to_support: $15 - $20 per family.
+project_summary: Providing food and supplies to families in need.
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>Over a third of rural adults and children experience moderate to severe food insecurity, according to the United Nations. A survey in 2022 showed that in the Mekong Delta, 48.4% reported food insecurity in the last year.</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>We believe that food should not be a struggle to obtain for these families. We give out food and supplies to families who are the most vulnerable and in need of resources.</p>

@@ -1,10 +1,11 @@
 ---
 layout: card
 card_id: card6
-project_title: Risus ornare lacinia
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Meals and Gifts
+cost_to_support: $10 per individual.
+project_summary: Providing meals and gifts to centers that support the ill and disabled.
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>A cancer survivor herself, the founder of Peaceful Mind wanted to give back to communities that were struggling with chronic illnesses and disabilities. It can seem like an insurmountable challenge to overcome, but even small meals and gifts to an unsuspecting survivor can make all the difference in their health and morale.</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>We mainly look to support children's cancer centers, but we also support other charities as they come along.</p>

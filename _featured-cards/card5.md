@@ -1,10 +1,11 @@
 ---
 layout: card
 card_id: card5
-project_title: Nunc enim commodo aliquet
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat
+project_title: Health
+project_summary: Providing vitamins, nutrition, and self-care guidance.
+cost_to_support: $5 per individual.
 featured: true
 ---
-Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.
+<p>Vulnerable members of society such as the young and the elderly in rural areas may not have access to the same quality of care as their urban counterparts. In addition, practices of health among these individuals may not be up-to-standard with the latest recommendations, and health knowledge may be scarce to come by.</p>
 
-Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.
+<p>Our team has a doctor on board who has been practicing for over 30 years in general medicine. We will give free consultations to those who are looking for general health advice and distribute vitamins to underserved communities.</p>

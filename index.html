@@ -4,28 +4,45 @@ layout: default
 <!-- One -->
 <section id="one">
   <header class="major">
-    <h2>Welcome to {{ site.foundation_name }}</h2>
+    <h2>Welcome to {{ site.foundation_name }} (501c3)</h2>
   </header>
   <p>{{ site.description }}</p>
-  <p>We encourage you to learn more about us by exploring <a href="{{ site.baseurl }}/mission/">our mission</a>, including our featured <a href="#featured" class="scrolly">projects</a> based on these core principles. We also encourage you to explore the <a href="{{ site.baseurl }}/grantees/">organizations we support</a>.</p>
+  <p>We encourage you to learn more about us by exploring <a href="{{ site.baseurl }}/mission/">our mission</a>, including our featured <a href="#featured" class="scrolly">volunteer areas</a> based on these core principles. We also encourage you to get involved with our cause by <a href="{{ site.baseurl }}/contact/">contacting us</a>.</p>
   <ul class="actions">
-    <li><a href="{{ site.baseurl }}/mission/" class="button">Our Mission</a></li>
+    <li><a href="{{ site.baseurl }}/donate/" class="button">Support us today</a></li>
   </ul>
 </section>
 
 <!-- Two -->
 <section id="featured">
-  <h2>Featured Projects</h2>
+  <h2>Volunteer Areas</h2>
+  <p>Explore our motives by clicking on the cards below and find out how you can help.</p>
   <div class="row">
       {% for each in site.featured-cards %}
         <article class="6u 12u$(xsmall) work-item">
           <a href="{{ site.baseurl }}/featured-cards/{{ each.card_id }}.html" class="image fit thumb" data-poptrox="ajax,600x400"><img src="{{ site.baseurl }}/assets/images/featured-cards/{{ each.card_id }}.jpg" alt="" /></a>
           <h3>{{ each.project_title }}</h3>
+          {% if each.cost_to_support %}
+            <h6>Cost to support: {{ each.cost_to_support }}</h6>
+          {% endif %}
           <p>{{ each.project_summary }}</p>
         </article>
       {% endfor %}
   </div>
   <ul class="actions">
-    <li><a href="{{ site.baseurl }}/grantees/" class="button">All Grantees</a></li>
+    <li><a href="{{ site.baseurl }}/mission/" class="button">Learn more about where we work</a></li>
+</section>
+
+<section id="three">
+  <h2>Our Promise to You</h2>
+  <p>Your support can make a difference! Our team guarantees:</p>
+  <ul>
+    <li><strong>Transparency:</strong> 100% of your donations will go directly to the cause.</li>
+    <li><strong>Volunteer-Run:</strong> We are a 100% volunteer-run organization, so all donations go directly to the cause.</li>
+    <li><strong>No Hidden Costs:</strong> No administrative or operational costs will be deducted from your donations. Our team provides our own time, effort, and money to cover the rest.</li>
+  </ul>
+  <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area above.</strong></p>
+  <ul class="actions">
+    <li><a href="{{ site.baseurl }}/donate/" class="button">Donate to the missions</a></li>
   </ul>
 </section>

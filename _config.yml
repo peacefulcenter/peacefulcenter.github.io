@@ -1,6 +1,6 @@
 # Grantmaker settings
-foundation_name: Peaceful Mind
-foundation_tagline: Promoting wellness and community resilience for all.
+foundation_name: Peaceful Mind 
+foundation_tagline: Promoting community resilience and wellness for all.
 
 # Social media settings
 # Enter the full profile url (e.g. https://twitter.com/smartergiving)
@@ -12,7 +12,7 @@ foundation_tagline: Promoting wellness and community resilience for all.
 # Site settings
 title: # Defaults to foundation_name if left blank
 description: > # this means to start on the next line (which needs to be indented two spaces)"
-  Peaceful Mind is dedicated to promoting wellness and community resilience through strategic philanthropy and partnerships. We believe in empowering communities to thrive by supporting charity initiatives in underfunded and underserved parts of the world.
+  Peaceful Mind is dedicated to promoting community resilience and wellness through strategic philanthropy and partnerships. We believe in empowering communities to thrive by supporting charity initiatives in underfunded and underserved parts of the world.
 # Google settings
 live: false # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
 

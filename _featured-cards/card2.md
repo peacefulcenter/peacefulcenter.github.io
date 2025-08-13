@@ -1,10 +1,10 @@
 ---
 layout: card
 card_id: card2
-project_title: Ultricies lacinia interdum
-project_summary: Lorem ipsum dolor sit amet nisl sed nullam feugiat.
+project_title: Infrastructure
+cost_to_support: $60 per street light; $4500 - $6000 per road or bridge.
+project_summary: Providing roads, bridges, and solar light to rural areas.
 featured: true
 ---
-<p>Convallis ipsum sed eu. At vitae sollicitudin hac in, orci cras turpis. Suscipit neque tortor, tortor tortor sit orci libero et, sollicitudin nam vehicula ipsum in ipsum. Mauris rutrum morbi non, ac vitae vitae, elementum id at vestibulum enim amet nonummy, ac eget, eu id. Itaque pede phasellus suscipit nam. Interdum aliquam orci interdum, libero pellentesque nam, vestibulum praesent vestibulum at a, gravida vitae curabitur quam.</p>
+<p>Despite recent advancements in technology, rural areas still greatly lag behind their urban peers. Many roads still remain unpaved, and many individuals have to walk in darkness when they have to work past dusk. We contribute towards the development of rural infrastructure so that people may travel in humane conditions.</p>
 
-<p>Feugiat netus mi non consectetuer, porta odio massa neque aliquam in pretium, sed libero. Pede orci ut semper adipiscing, vulputate vestibulum eget velit quam, integer eros nunc nisl interdum consequat. Magna interdum elit lorem donec orci. Tempus eget hendrerit est aliquam, venenatis accumsan varius ut mauris, purus orci. Massa libero ultricies elementum pellentesque velit, sit nunc est gravida magna libero vitae, mollis vestibulum erat molestie.</p>
