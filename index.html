@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<!-- One -->
+<section id="one">
+  <header class="major">
+    <h2>Welcome to {{ site.foundation_name }}</h2>
+  </header>
+  <p>{{ site.description }}</p>
+  <p>We encourage you to learn more about us by exploring <a href="{{ site.baseurl }}/mission/">our mission</a>, including our featured <a href="#featured" class="scrolly">projects</a> based on these core principles. We also encourage you to explore the <a href="{{ site.baseurl }}/grantees/">organizations we support</a>.</p>
+  <ul class="actions">
+    <li><a href="{{ site.baseurl }}/mission/" class="button">Our Mission</a></li>
+  </ul>
+</section>
+
+<!-- Two -->
+<section id="featured">
+  <h2>Featured Projects</h2>
+  <div class="row">
+      {% for each in site.featured-cards %}
+        <article class="6u 12u$(xsmall) work-item">
+          <a href="{{ site.baseurl }}/featured-cards/{{ each.card_id }}.html" class="image fit thumb" data-poptrox="ajax,600x400"><img src="{{ site.baseurl }}/assets/images/featured-cards/{{ each.card_id }}.jpg" alt="" /></a>
+          <h3>{{ each.project_title }}</h3>
+          <p>{{ each.project_summary }}</p>
+        </article>
+      {% endfor %}
+  </div>
+  <ul class="actions">
+    <li><a href="{{ site.baseurl }}/grantees/" class="button">All Grantees</a></li>
+  </ul>
+</section>

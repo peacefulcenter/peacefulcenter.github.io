@@ -1,0 +1,483 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/*********************************************************************************/
+/* Variables                                                                     */
+/*********************************************************************************/
+
+// Media query breakpoints
+// Extra small screen / phone
+$screen-xs:                  480px !default;
+$screen-xs-min:              $screen-xs !default;
+$screen-phone:               $screen-xs-min !default;
+
+// Small screen / tablet
+$screen-sm:                  736px !default;
+$screen-sm-min:              $screen-sm !default;
+$screen-tablet:              $screen-sm-min !default;
+
+// Medium screen / desktop
+$screen-md:                  980px !default;
+$screen-md-min:              $screen-md !default;
+$screen-desktop:             $screen-md-min !default;
+
+// Large screen / wide desktop
+$screen-lg:                  1280px !default;
+$screen-lg-min:              $screen-lg !default;
+$screen-lg-desktop:          $screen-lg-min !default;
+
+// X-Large screen / widescreen desktop
+$screen-xl:                  1800px !default;
+$screen-xl-min:              $screen-xl !default;
+$screen-xl-desktop:          $screen-xl-min !default;
+
+// So media queries don't overlap when required, provide a maximum
+$screen-xs-max:              ($screen-sm-min - 1) !default;
+$screen-sm-max:              ($screen-md-min - 1) !default;
+$screen-md-max:              ($screen-lg-min - 1) !default;
+$screen-lg-max:              ($screen-xl-min - 1) !default;
+
+// Short Desktop screens
+$screen-short:               700px !default;
+$screen-short-min:           $screen-short;
+
+/*********************************************************************************/
+/* Mixins                                                                        */
+/*********************************************************************************/
+
+// Use media queries like this:
+// @include media-query($screen-xs-min) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+/*********************************************************************************/
+/* Skel Default                                                                  */
+/*********************************************************************************/
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import 'skel/vars';
+@import 'skel/functions';
+@import 'skel/mixins';
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import "skel/skel";
+
+/*********************************************************************************/
+/* HTML5Up Theme                                                                 */
+/*********************************************************************************/
+/*
+  Strata by HTML5 UP
+  html5up.net | @n33co
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+@import 'skel/theme';
+
+/*********************************************************************************/
+/* Site CSS                                                                      */
+/*********************************************************************************/
+
+.image-no-overlay:before {
+  background: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#footer {
+  padding-bottom: 2em;
+}
+
+/* Nav */
+#navPanel, #navButton {
+  display: none;
+}
+
+@media only screen and (max-width: $screen-sm-max), screen and (min-width: $screen-md-min) and (max-height: $screen-short) {
+  
+  #nav {
+    display: none;
+  }
+
+  /* Off-Canvas Navigation */
+
+  #navButton {
+    @include vendor('backface-visibility', 'hidden');
+    @include vendor('transition', 'transform #{_duration(navPanel)} ease');
+    display: block;
+    height: 44px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: _misc(z-index-base) + 1;
+
+    .toggle {
+      background: rgba(192,192,192,0.75);
+      border-bottom: none;
+      border-radius: _size(border-radius);
+      color: #fff;
+      display: block;
+      font-size: 16px;
+      height: 2.25em;
+      left: 0.5em;
+      line-height: 2.25em;
+      position: absolute;
+      text-align: center;
+      top: 0.5em;
+      width: 4.5em;
+      &:hover {
+        background-color: rgba(192, 192, 192, 0.85);
+        color: #fff !important;
+      }
+    }
+  }
+
+  #navPanel {
+    @include vendor('backface-visibility', 'hidden');
+    @include vendor('transform', 'translateX(#{_size(navPanel) * -1})');
+    @include vendor('transition', ('transform #{_duration(navPanel)} ease'));
+    display: block;
+    height: 100%;
+    left: 0;
+    overflow-y: auto;
+    position: fixed;
+    top: 0;
+    width: _size(navPanel);
+    z-index: _misc(z-index-base) + 2;
+    background: darken(_palette(accent1, bg), 10);
+    color: _palette(accent1, fg);
+
+    .link {
+      border-bottom: 0;
+      border-top: solid 1px rgba(255,255,255,0.05);
+      color: _palette(accent1, fg);
+      display: block;
+      height: 44px;
+      line-height: 44px;
+      padding: 0 1em 0 1em;
+      text-decoration: none;
+
+      &:first-child {
+        border-top: 0;
+      }
+
+      &.depth-0 {
+        color: _palette(accent1, fg-bold);
+      }
+
+      .indent-1 { display: inline-block; width: 1em; }
+      .indent-2 { display: inline-block; width: 2em; }
+      .indent-3 { display: inline-block; width: 3em; }
+      .indent-4 { display: inline-block; width: 4em; }
+      .indent-5 { display: inline-block; width: 5em; }
+    }
+  }
+
+  body {
+    &.navPanel-visible {
+      #page-wrapper {
+        @include vendor('transform', 'translateX(#{_size(navPanel)})');
+      }
+
+      #navButton {
+        @include vendor('transform', 'translateX(#{_size(navPanel)})');
+      }
+
+      #navPanel {
+        @include vendor('transform', 'translateX(0)');
+      }
+    }
+  }
+}
+
+/* Landing Page */
+#header, #header h1, #header a, #footer {
+  //color: rgba(255, 255, 255, 0.5); // Default - good for darker backgrounds
+  color: #f0f0f0;
+}
+
+#header, #footer {
+  font-size: .9rem;
+}
+
+#header {
+  //background-color: _palette(accent2, bg); //Default
+  background-color: #a6a6a6; //This color should match the bottom of the background image
+  @media only screen and (min-width: $screen-md-min) {
+    background-size: auto, auto 115%; //Extend beyond screen to allow for parallax scroll
+  }
+  @media only screen and (max-width: $screen-sm-max)  {
+    background-position: top left, center center !important; //Fix positioning flicker for non-CDN sites
+  }
+  a {
+    border: none;
+    &:hover {
+      color: _palette(accent1, fg-light) !important;
+    }
+  }
+  img {
+    width: 60%;
+    margin-bottom: 20px;
+  }
+  h1.tagline {
+    min-height: 38px;
+  }
+  nav {
+    margin-top: 30px;
+    ul {
+      list-style-type: none;
+      li a.active {
+        cursor: default;
+        color: _palette(accent1, fg-light);
+        &:hover {
+          cursor: default;
+          color: _palette(accent1, fg-light) !important;
+        }
+        @media only screen and (max-width: $screen-sm-max) {
+          background-color: _palette(accent1, bg);
+          color: white;
+          padding: 5px 20px;
+          border-radius: 3px;
+          &:hover {
+            cursor: default;
+            color: white !important;
+          }
+        }
+        @media only screen and (min-width: $screen-md-min) {
+          &:before {
+            margin-right: 5px;
+            font-family: 'FontAwesome';
+            content: '\f054'; //chevron
+            //content: '\f0a9'; //circle arrow
+          }
+        }
+      }
+    }
+  }
+}
+
+// Short screens
+@media only screen and (min-width: $screen-md-min) and (max-height: $screen-short) {
+  .icons, .credits {
+    display: none;
+  }
+}
+
+// Scroll indicator
+.scroll-indicator {
+  display: none;
+  @media only screen and (max-width: $screen-sm-max)  {
+    display: block;
+    z-index: 100;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    opacity: 0.5;
+    a {
+      color: _palette(accent1, bg) !important;
+    }
+    &:hover {
+      opacity: 1.0;
+    }
+  }
+}
+
+// Wide layout : main section wider | sidebar section narrower
+$wide-layout-margin: 20%;
+
+.img-avatar {
+  display: none;
+}
+
+@media screen and (min-width: $screen-lg-min) {
+  .header-narrow, .footer-narrow {
+    width: $wide-layout-margin !important;
+    padding-right: 3em !important;
+  }
+
+  .main-wide {
+    margin-left: $wide-layout-margin !important;
+    max-width: 100% !important;
+    width: calc(100% - #{$wide-layout-margin}) !important;
+  }
+
+  .copyright-narrow, .credits-narrow {
+    li {
+      border-left: none !important;
+    }
+  }
+}
+
+/* Featured */
+.card {
+  padding: 40px;
+  text-align: left;
+}
+
+// Featured popups
+.poptrox-popup {
+  overflow: auto;
+  .closer {
+    z-index: 1200;
+    &:before {
+      border-radius: 100%;
+      border: solid 3px _palette(fg);
+      content: '\f00d';
+      color: _palette(fg);
+      //content: '\f057';
+    }
+  } 
+  .caption {
+    background-color: #e9e9e9;
+  }
+}
+
+.image.thumb:after {
+  content: 'Read More';
+}
+
+/* Grantees & Grants DB */
+.actions-grants-nav li {
+  padding-bottom: 1em !important;
+}
+
+  /* Search */
+  .sort {
+    cursor: pointer;
+  }
+  .search-wrapper {
+    position: relative;
+    .search-box:not(:valid) ~ .search-clear {
+      display: none;
+    }
+    .search-clear {
+      text-decoration: none;
+      position: absolute;
+      right: 0.75em;
+      top: 1em;
+      border: 0;
+      padding: 0;
+      outline: 0;
+      color: inherit;
+      background-color: inherit;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    .search-box-label {
+      padding: 0.75em;
+      font-size: 0.7em;
+      line-height: 1.5em;
+      color: _palette(fg-light);
+    }
+    .search-box-label {
+      visibility: hidden;
+    }
+    .search-count {
+      color: _palette(accent1, bg);
+      display: inline-block;
+    }
+  }
+  #search-no-items-found {
+    display: none;
+    min-height: 500px;
+  }
+
+  /* Tables */
+  @media only screen and (max-width: $screen-xs) {
+
+    table, thead, tbody, tfoot, th, td, tr { 
+      display: block; 
+    }
+    
+    thead tr { 
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+    
+    tr { border: 1px solid #ccc; }
+    
+    td { 
+      border: none;
+      border-bottom: 1px solid #eee; 
+      position: relative;
+      padding-left: 50%; 
+    }
+
+    tfoot tr {
+      border: solid 2px #efefef;
+    }
+
+    tfoot tr td {
+      display: block;
+      text-align: center;
+      &.db-grantee-location,
+      &.db-grant-purpose {
+        display: none;
+      }
+    }
+
+  }
+
+  @media only screen and (min-width: $screen-xs) {
+
+    table .table-template {
+      th, td {
+        &:nth-child(1) {
+          width: 30%;
+        }
+        &:nth-child(2) {
+          width: 15%;
+        }
+        &:nth-child(3) {
+          width: 15%;
+        }
+        &:nth-child(4) {
+          width: 40%
+        }
+      }
+    }
+    
+  }
+
+a.grantee-thumb {
+  border: none;
+}
+
+.thumb-fit {
+  //object-fit: cover;
+  max-width: 150px;
+  max-height: 100px;
+}
+
+.db-grantee-location {
+  text-transform: capitalize;
+}
+
+@media only screen and (max-width: $screen-xs-max)  {
+  .actions-grants-nav {
+    display: none;
+  }
+}
+
+
+/* Large wordmark in the hero */
+.hero-wordmark {
+  font: inherit;          /* same family as site */
+  font-weight: 800;
+  font-size: clamp(36px, 6vw, 64px);
+  line-height: 1.05;
+  color: #fff;            /* readable over the photo */
+  text-shadow: 0 2px 16px rgba(0,0,0,.35);
+}
