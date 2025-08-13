@@ -4,13 +4,15 @@ layout: default
 <!-- One -->
 <section id="one">
   <header class="major">
-    <h2>Welcome to {{ site.foundation_name }} (501c3)</h2>
+    <h1>Welcome to {{ site.foundation_name }} (501c3)</h1>
   </header>
   <p>{{ site.description }}</p>
-  <p>We encourage you to learn more about us by exploring <a href="{{ site.baseurl }}/mission/">our mission</a>, including our featured <a href="#featured" class="scrolly">volunteer areas</a> based on these core principles. We also encourage you to get involved with our cause by <a href="{{ site.baseurl }}/contact/">contacting us</a>.</p>
-  <ul class="actions">
-    <li><a href="{{ site.baseurl }}/donate/" class="button">Support us today</a></li>
-  </ul>
+  <p><strong>We warmly encourage you to learn more about us!</strong></p>
+  <div class="actions" style="display: flex; gap: 1em;">
+    <a href="{{ site.baseurl }}/about/" class="button">About our team</a>
+    <a href="#featured" class="button scrolly">Our initiatives</a>
+    <a href="{{ site.baseurl }}/donate/" class="button">Donate today</a>
+  </div>
 </section>
 
 <!-- Two -->
@@ -29,8 +31,11 @@ layout: default
         </article>
       {% endfor %}
   </div>
-  <ul class="actions">
-    <li><a href="{{ site.baseurl }}/mission/" class="button">Learn more about where we work</a></li>
+  <p><strong>Ready to make a difference?</strong></p>
+  <div class="actions" style="display: flex; gap: 1em;">
+    <a href="{{ site.baseurl }}/mission/" class="button">Where we work</a>
+    <a href="{{ site.baseurl }}/grantees/" class="button">How we use your donations</a>
+  </div>
 </section>
 
 <section id="three">
@@ -44,5 +49,6 @@ layout: default
   <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area above.</strong></p>
   <ul class="actions">
     <li><a href="{{ site.baseurl }}/donate/" class="button">Donate to the missions</a></li>
+    <li><a href="{{ site.baseurl }}/contact/" class="button">Contact us</a></li>
   </ul>
 </section>
