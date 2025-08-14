@@ -25,7 +25,7 @@ layout: default
           <a href="{{ site.baseurl }}/featured-cards/{{ each.card_id }}.html" class="image fit thumb" data-poptrox="ajax,600x400"><img src="{{ site.baseurl }}/assets/images/featured-cards/{{ each.card_id }}.jpg" alt="" /></a>
           <h3>{{ each.project_title }}</h3>
           {% if each.cost_to_support %}
-            <h6>Cost to support: {{ each.cost_to_support }}</h6>
+            <h5>Cost to support: {{ each.cost_to_support }}</h5>
           {% endif %}
           <p>{{ each.project_summary }}</p>
         </article>

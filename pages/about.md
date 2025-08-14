@@ -1,6 +1,6 @@
 ---
 header_title: About Us
-header_intro: Our nonprofit was established in 2025. We are a group of Buddhist philanthropists looking to give back to underserved and underfunded communities and commit to good deeds in the world.
+header_intro: Our nonprofit was established in 2025. We are philanthropists looking to give back to impoverished communities and commit to good deeds in the world.
 layout: page
 permalink: /:basename/
 ---
