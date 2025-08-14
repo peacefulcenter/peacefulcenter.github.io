@@ -6,7 +6,7 @@ permalink: /:basename/
 ---
 <section id="two">
   <header class="major">
-    <h2>Our Journey in 2025</h2>
+    <h2>Our Timeline in 2025</h2>
     <p>Building resilience and promoting wellness—one step at a time.</p>
   </header>
 

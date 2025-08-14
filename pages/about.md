@@ -6,7 +6,7 @@ permalink: /:basename/
 ---
 ## Mrs. Loan Nguyen
 ### Founder and President
-She brings 18 years in public service and 10 years of experience in charity work.
+She brings 18 years of experience in public service and 10 years of experience in charity work.
 
 ## Mr. Kiet Ly
 ### Treasurer
@@ -18,4 +18,4 @@ He brings 30 years of experience as a general family doctor.
 
 ## Mrs. Kim Bang Tran Le
 ### Fundraising Director
-Biography TBD.
+She brings 20 years of experience in fundraising for various initiatives.
