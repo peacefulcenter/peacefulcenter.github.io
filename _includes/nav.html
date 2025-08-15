@@ -1,17 +1,21 @@
-<nav id="nav">
-  <ul>
+<nav id="navbar" class="navbar-fixed">
+    <!-- Burger Icon -->
+  <button class="burger" id="burger" aria-label="Toggle navigation">
+    <i class="fa fa-bars" aria-hidden="true"></i>
+    <span class="burger-label">Menu</span>
+  </button>
+
+  <ul class="nav-links" id="nav-menu">
     <li><a href="{{ site.baseurl }}/" {% if page.url == '/' %} class="active" {% endif %}>Home</a></li>
     <!-- Mission -->
-    <li><a href="{{ site.baseurl }}/mission/" {% if page.url == '/mission/' %} class="active" {% endif %}>Mission and History</a></li>
+    <li><a href="{{ site.baseurl }}/mission/" {% if page.url == '/mission/' %} class="active" {% endif %}>Mission</a></li>
     <!-- Current Projects -->
-    <li><a href="{{ site.baseurl }}/projects/" {% if page.url == '/projects/' %} class="active" {% endif %}>Current Projects</a></li>
-    <!-- Grantees -->
-    <li><a href="{{ site.baseurl }}/grantees/" {% if page.url == '/grantees/' %} class="active" {% endif %}>Where Your Support Goes</a></li>
+    <li><a href="{{ site.baseurl }}/projects/" {% if page.url == '/projects/' %} class="active" {% endif %}>Projects</a></li>
     <!-- Donate -->
-    <li><a href="{{ site.baseurl }}/donate/" {% if page.url == '/donate/' %} class="active" {% endif %}>Donate Today</a></li>
-        <!-- About -->
-    <li><a href="{{ site.baseurl }}/about/" {% if page.url == '/about/' %} class="active" {% endif %}>About Our Team</a></li>
+    <li><a href="{{ site.baseurl }}/donate/" {% if page.url == '/donate/' %} class="active" {% endif %}>Donate</a></li>
+    <!-- About -->
+    <li><a href="{{ site.baseurl }}/about/" {% if page.url == '/about/' %} class="active" {% endif %}>About</a></li>
     <!-- Contact -->
-    <li><a href="{{ site.baseurl }}/contact/" {% if page.url == '/contact/' %} class="active" {% endif %}>Contact Us</a></li>
+    <li><a href="{{ site.baseurl }}/contact/" {% if page.url == '/contact/' %} class="active" {% endif %}>Contact</a></li>
   </ul>
 </nav>
