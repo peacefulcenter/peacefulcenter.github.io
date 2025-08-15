@@ -299,12 +299,12 @@ $screen-short-min:           $screen-short;
   }
 }
 
-// Short screens
-@media only screen and (min-width: $screen-md-min) and (max-height: $screen-short) {
-  .icons, .credits {
-    display: none;
-  }
-}
+// // Short screens
+// @media only screen and (min-width: $screen-md-min) and (max-height: $screen-short) {
+//   .icons, .credits {
+//     display: none;
+//   }
+// }
 
 // Scroll indicator
 .scroll-indicator {
