@@ -39,8 +39,8 @@ permalink: /:basename/
         </figure>
 
         <figure>
-            <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and handicapped children">
-            <figcaption><strong>Project 6:</strong> 110 Meals/Gifts to Family-less Elders and Handicapped Children Center in Da Nang.</figcaption>
+            <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
+            <figcaption><strong>Project 6:</strong> 110 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang.</figcaption>
         </figure>
     </div>
 </details>
