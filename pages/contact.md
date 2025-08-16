@@ -11,6 +11,7 @@ email: thepeacefulcenter@outlook.com
 layout: contact
 permalink: /:basename/
 ---
+
 <!-- Your entries above cannot contain colons -->
 <!-- The only colon should be after the variable name (e.g. city:) -->
 <!-- The colon is used to separate the variable name from the variable content -->
