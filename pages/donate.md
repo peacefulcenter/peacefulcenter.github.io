@@ -1,12 +1,9 @@
 ---
-header_title: Thank you for your interest in donating.
-header_intro: Give towards a good cause and help us eliminate suffering in the world.
-
-layout: page
+layout: default
 permalink: /:basename/
 ---
 
-## How to Donate
+# How to Donate
 
 **Zelle to:** `thepeacefulcenter@outlook.com`
 

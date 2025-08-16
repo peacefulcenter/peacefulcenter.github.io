@@ -93,10 +93,6 @@ $screen-short-min:           $screen-short;
   text-align: center;
 }
 
-#footer {
-  padding-bottom: 2em;
-}
-
 /* Nav */
 #navbar.navbar-fixed {
   position: fixed;
@@ -234,12 +230,12 @@ $screen-short-min:           $screen-short;
 
 
 /* Landing Page */
-#header, #header h1, #header a, #footer {
+#header, #header h1, #header a {
   //color: rgba(255, 255, 255, 0.5); // Default - good for darker backgrounds
   color: #f0f0f0;
 }
 
-#header, #footer {
+#header {
   font-size: .9rem;
 }
 
@@ -299,13 +295,6 @@ $screen-short-min:           $screen-short;
   }
 }
 
-// // Short screens
-// @media only screen and (min-width: $screen-md-min) and (max-height: $screen-short) {
-//   .icons, .credits {
-//     display: none;
-//   }
-// }
-
 // Scroll indicator
 .scroll-indicator {
   display: none;
@@ -333,7 +322,7 @@ $wide-layout-margin: 20%;
 }
 
 @media screen and (min-width: $screen-lg-min) {
-  .header-narrow, .footer-narrow {
+  .header-narrow {
     width: $wide-layout-margin !important;
     padding-right: 3em !important;
   }
@@ -344,11 +333,11 @@ $wide-layout-margin: 20%;
     width: calc(100% - #{$wide-layout-margin}) !important;
   }
 
-  .copyright-narrow, .credits-narrow {
-    li {
-      border-left: none !important;
-    }
-  }
+  // .copyright-narrow, .credits-narrow {
+  //   li {
+  //     border-left: none !important;
+  //   }
+  // }
 }
 
 /* Featured */
@@ -383,33 +372,38 @@ $wide-layout-margin: 20%;
 .hero-wordmark {
   font: inherit;          /* same family as site */
   font-weight: 500;
-  font-size: clamp(36px, 6vw, 64px);
+  font-size: clamp(36px, 5vw, 48px); // smaller max size
   line-height: 1.05;
   color: #fff;            /* readable over the photo */
   text-shadow: 0 2px 16px rgba(0,0,0,.35);
+
+  @media screen and (min-width: $screen-lg-min) {
+    font-size: 40px;
+  }
 }
 
 /* Projects */
 .project-grid {
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  margin-top: 2rem;
 
   figure {
-    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
 
     img {
       width: 100%;
-      height: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+      height: 200px; // or 250px depending on your design
+      object-fit: cover;
+      border-radius: 6px;
     }
 
     figcaption {
-      margin-top: 0.75rem;
-      font-size: 0.95rem;
+      margin-top: 0.5rem;
     }
   }
 }
+

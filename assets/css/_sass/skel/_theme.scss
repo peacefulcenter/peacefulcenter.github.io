@@ -922,51 +922,6 @@ input[type="button"],
   }
 }
 
-/* Footer */
-
-#footer {
-  bottom: 0;
-  left: 0;
-  padding: 0 $size-header-pad ($size-header-pad + _size(element-margin)) 0;
-  position: fixed !important;
-  text-align: right;
-  width: 100%;
-
-  .icons {
-    margin: (_size(element-margin) * 0.5) 0 0 0;
-
-    a {
-      color: _palette(accent2, fg-light);
-    }
-  }
-
-  .copyright, .credits {
-    color: _palette(accent2, fg-light);
-    font-size: 0.8em;
-    list-style: none;
-    margin: (_size(element-margin) * 0.5) 0 0 0;
-    padding: 0;
-
-    li {
-      border-left: solid 1px _palette(accent2, border);
-      display: inline-block;
-      line-height: 1em;
-      margin-left: 0.75em;
-      padding-left: 0.75em;
-
-      &:first-child {
-        border-left: 0;
-        margin-left: 0;
-        padding-left: 0;
-      }
-
-      a {
-        color: inherit;
-      }
-    }
-  }
-}
-
 /* Main */
 
 #main {
@@ -1198,20 +1153,20 @@ body.is-touch {
 
   /* Footer */
 
-    #footer {
-      padding: 0 $size-header-pad ($size-header-pad + _size(element-margin)) $size-header-pad;
-      width: $size-header-width;
+    // #footer {
+    //   padding: 0 $size-header-pad ($size-header-pad + _size(element-margin)) $size-header-pad;
+    //   width: $size-header-width;
 
-      .copyright, .credits {
-        li {
-          border-left-width: 0;
-          display: block;
-          line-height: 2.25em;
-          margin-left: 0;
-          padding-left: 0;
-        }
-      }
-    }
+    //   .copyright, .credits {
+    //     li {
+    //       border-left-width: 0;
+    //       display: block;
+    //       line-height: 2.25em;
+    //       margin-left: 0;
+    //       padding-left: 0;
+    //     }
+    //   }
+    // }
 
   /* Main */
 
@@ -1274,36 +1229,36 @@ body.is-touch {
 
   /* Footer */
 
-    #footer {
-      background-attachment:  scroll;
-      background-color:   _palette(accent2, bg);
-      background-image:   url('images/overlay.png'),    url('../../images/purple.jpg');
-      background-position:  top left,           bottom center;
-      background-repeat:    repeat,             no-repeat;
-      background-size:    auto,             cover;
-      bottom: auto;
-      left: auto;
-      padding: $size-header-pad $size-header-pad ($size-header-pad * 1.5) $size-header-pad;
-      position: relative;
-      text-align: center;
-      width: 100%;
+    // #footer {
+    //   background-attachment:  scroll;
+    //   background-color:   _palette(accent2, bg);
+    //   background-image:   url('images/overlay.png'),    url('../../images/purple.jpg');
+    //   background-position:  top left,           bottom center;
+    //   background-repeat:    repeat,             no-repeat;
+    //   background-size:    auto,             cover;
+    //   bottom: auto;
+    //   left: auto;
+    //   padding: $size-header-pad $size-header-pad ($size-header-pad * 1.5) $size-header-pad;
+    //   position: relative;
+    //   text-align: center;
+    //   width: 100%;
 
-      .icons {
-        margin: 0 0 (_size(element-margin) * 0.5) 0;
-      }
+    //   .icons {
+    //     margin: 0 0 (_size(element-margin) * 0.5) 0;
+    //   }
 
-      .copyright, .credits {
-        margin: 0 0 (_size(element-margin) * 0.5) 0;
+    //   .copyright, .credits {
+    //     margin: 0 0 (_size(element-margin) * 0.5) 0;
 
-        li {
-          border-left-width: 1px;
-          display: inline-block;
-          line-height: 1em;
-          margin-left: 0.75em;
-          padding-left: 0.75em;
-        }
-      }
-    }
+    //     li {
+    //       border-left-width: 1px;
+    //       display: inline-block;
+    //       line-height: 1em;
+    //       margin-left: 0.75em;
+    //       padding-left: 0.75em;
+    //     }
+    //   }
+    // }
 
   /* Main */
 
@@ -1467,16 +1422,16 @@ body.is-touch {
 
   /* Footer */
 
-    #footer {
-      .copyright, .credits {
-        li {
-          border-left-width: 0;
-          display: block;
-          line-height: 2.25em;
-          margin-left: 0;
-          padding-left: 0;
-        }
-      }
-    }
+    // #footer {
+    //   .copyright, .credits {
+    //     li {
+    //       border-left-width: 0;
+    //       display: block;
+    //       line-height: 2.25em;
+    //       margin-left: 0;
+    //       padding-left: 0;
+    //     }
+    //   }
+    // }
 
 }
