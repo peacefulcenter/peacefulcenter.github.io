@@ -15,7 +15,7 @@ permalink: /:basename/
     <p>We kickstart our 6 projects of 2025 and set up our online presence.</p>
   </div>
 </section>
-
+<!-- 
 <section id="three">
   <header class="major">
     <h2>Our Core Principles</h2>
@@ -34,4 +34,4 @@ permalink: /:basename/
       <p>We stand in solidarity with underserved communities worldwide, fostering connections that transcend borders.</p>
     </li>
   </ul>
-</section>
+</section> -->
