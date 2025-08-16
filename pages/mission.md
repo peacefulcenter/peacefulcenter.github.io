@@ -7,22 +7,12 @@ permalink: /:basename/
 <section id="two">
   <header class="major">
     <h2>Our Timeline in 2025</h2>
-    <p>Building resilience and promoting wellness—one step at a time.</p>
+    <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
 
   <div class="box">
-    <h3>March 2025 – Launch of “Peaceful Start” Initiative</h3>
-    <p>We kicked off our first pilot wellness retreat in Santa Fe, New Mexico, focused on trauma-informed mindfulness for community leaders. Over 30 participants engaged in restorative practices and community rebuilding activities.</p>
-  </div>
-
-  <div class="box">
-    <h3>June 2025 – Partnership with Rise & Recover</h3>
-    <p>Peaceful Mind partnered with local nonprofits to host a two-week series of mobile mental health clinics in rural areas of New Mexico, serving over 200 individuals with culturally competent care.</p>
-  </div>
-
-  <div class="box">
-    <h3>August 2025 – First International Solidarity Trip</h3>
-    <p>We organized a charity trip to Vietnam focusing on rural health support and educational workshops. Volunteers delivered medical supplies and co-led resilience-building programs with local partners.</p>
+    <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
+    <p>We kickstart our 6 projects of 2025 and set up our online presence.</p>
   </div>
 </section>
 
