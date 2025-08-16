@@ -6,6 +6,7 @@ permalink: /:basename/
 # How to Donate
 
 **Zelle to:** `thepeacefulcenter@outlook.com`
+_Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is tax deductible as applicable to your filing requirements._
 
 <section id="one">
   <h2>Our Promise to You</h2>
@@ -17,10 +18,6 @@ permalink: /:basename/
   </ul>
   <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area above.</strong></p>
 </section>
-
-
-_Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is tax deductible as applicable to your filing requirements._
-
 
 <details>
   <summary><strong>Remind me what I can donate to?</strong></summary>
@@ -92,9 +89,3 @@ _Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is ta
 | Elaine Ly              | $250.00      |
 | Emmy Ly                | $250.00      |
 | Catherine Hoang        | $100.00      |
-
----
-
-We will set up a donation box here soon so that you can donate directly through our website.
-
-In the meantime, please [contact us]({{ site.baseurl }}/contact/) to figure out how you can contribute to our mission!
