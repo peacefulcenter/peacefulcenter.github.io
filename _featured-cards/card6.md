@@ -6,6 +6,4 @@ cost_to_support: $10 per individual.
 project_summary: Providing meals and gifts to centers that support the ill and disabled.
 featured: true
 ---
-<p>A cancer survivor herself, the founder of Peaceful Mind wanted to give back to communities that were struggling with chronic illnesses and disabilities. It can seem like an insurmountable challenge to overcome, but even small meals and gifts to an unsuspecting survivor can make all the difference in their health and morale.</p>
-
-<p>We mainly look to support children's cancer centers, but we also support other charities as they come along.</p>
+<p>A cancer survivor herself, the founder of Peaceful Mind wanted to give back to communities that were struggling with chronic illnesses and disabilities. It can seem like an insurmountable challenge to overcome, but even small meals and gifts can make all the difference in their health and morale.</p>
