@@ -18,7 +18,7 @@ live: false # enter 'true' when you're ready for the site to be indexed by Googl
 
 # Jekyll settings
 baseurl: "" # Leave blank unless you are using a subdirectory (e.g. /blog)
-url: https://smartergiving.org # Typically http://www.yourdomain.org
+url: https://thepeacefulcenter.org
 collections:
   featured-cards:
     output: true
