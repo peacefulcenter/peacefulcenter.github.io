@@ -4,7 +4,7 @@ header_intro: Our ongoing projects for which we need your kind assistance to con
 layout: page
 permalink: /:basename/
 ---
-<details>
+<details open>
     <summary><strong>2025 Projects (Ongoing)</strong></summary>
 
     <h2>2025 Projects (Ongoing)</h2>

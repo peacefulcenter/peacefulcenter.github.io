@@ -20,7 +20,7 @@ _Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is ta
   <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area above.</strong></p>
 </section>
 
-<details>
+<details open>
   <summary><strong>Remind me what I can donate to?</strong></summary>
 
   <br/>
