@@ -5,9 +5,9 @@ permalink: /:basename/
 
 # How to Donate
 
-**Zelle to:** `thepeacefulcenter@outlook.com`
+**Zelle to: <u>thepeacefulcenter@outlook.com</u>**
 
-_Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is tax deductible as applicable to your filing requirements._
+_Peaceful Mind 501C3 is a tax-exempt organization. Your donation is tax deductible as applicable to your filing requirements._
 
 <section id="one">
   <h2>Our Promise to You</h2>
@@ -17,7 +17,7 @@ _Peaceful Mind 501C3 is a 501(c)(3) tax-exempt organization. Your donation is ta
     <li><strong>Volunteer-Run:</strong> We are a 100% volunteer-run organization, so all donations go directly to the cause.</li>
     <li><strong>No Hidden Costs:</strong> No administrative or operational costs will be deducted from your donations. Our team provides our own time, effort, and money to cover the rest.</li>
   </ul>
-  <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area above.</strong></p>
+  <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area below.</strong></p>
 </section>
 
 <details open>
