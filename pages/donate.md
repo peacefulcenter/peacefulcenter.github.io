@@ -91,3 +91,13 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Your donation is tax deductib
 | Emmy Ly           | $250.00   |
 | Catherine Hoang   | $100.00   |   
 | Thao Tu           | $250.00   | 
+
+---
+
+## Thank You to Our Donors – 2026 Projects
+
+| Donor Name        | Amount    |
+|-------------------|-----------|
+| Dr. Phatco Nguyen | $1,000.00 |
+| Loan Nguyen       | $1,000.00 |
+
