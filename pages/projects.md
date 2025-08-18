@@ -9,8 +9,7 @@ permalink: /:basename/
     
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
-
-    <h2>2025 Projects (Ongoing)</h2>
+    
     $14,700.00 received out of $15,000.00
 
     <progress value="14700" max="15000" style="width:100%; height:30px;"></progress>
