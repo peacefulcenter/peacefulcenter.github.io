@@ -8,8 +8,7 @@ permalink: /:basename/
 
     <h2>2026 Projects (Planning)</h2>
     $2,000.00 received out of $15,000.00
-    <progress value="2000" max="15000" style="width:100%; height:30px;"></progress>
-
+    
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
 
