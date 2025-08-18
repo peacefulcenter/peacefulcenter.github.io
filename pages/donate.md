@@ -37,12 +37,12 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Your donation is tax deductib
       <tr>
         <td>Vietnam</td>
         <td>Street Solar Light</td>
-        <td>$60 per light</td>
+        <td>$60 per solar light</td>
       </tr>
       <tr>
         <td>Vietnam</td>
-        <td>Road or Bridge</td>
-        <td>$4,500 – $6,000 per road</td>
+        <td>Bridge</td>
+        <td>$4,500 – $6,000 per bridge</td>
       </tr>
       <tr>
         <td>Vietnam</td>
