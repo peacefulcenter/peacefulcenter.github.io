@@ -5,14 +5,14 @@ layout: page
 permalink: /:basename/
 ---
 <summary><strong>2026 Projects (Planning)</strong></summary>
-$2,000.00 received out of $15,000.00
+$5,500.00 received out of $15,000.00
     
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $14,700.00 received out of $15,000.00
+    $15,200.00 received out of $15,400.00
 
-    <progress value="14700" max="15000" style="width:100%; height:30px;"></progress>
+    <progress value="15200" max="15400" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
