@@ -7,7 +7,7 @@ permalink: /:basename/
 
 **Zelle to: <u>thepeacefulcenter@outlook.com</u>**
 
-_Peaceful Mind 501C3 is a tax-exempt organization. Your donation is tax deductible as applicable to your filing requirements._
+_Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your donation is tax deductible as applicable to your filing requirements._
 
 <section id="one">
   <h2>Our Promise to You</h2>
