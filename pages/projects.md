@@ -5,8 +5,6 @@ layout: page
 permalink: /:basename/
 ---
 <summary><strong>2026 Projects (Planning)</strong></summary>
-
-    <h2>2026 Projects (Planning)</h2>
     $2,000.00 received out of $15,000.00
     
 <details open>
