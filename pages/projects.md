@@ -10,9 +10,9 @@ $5,500.00 received out of $15,000.00
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $15,200.00 received out of $15,400.00
+    $15,402.00 received - Fully Funded
 
-    <progress value="15200" max="15400" style="width:100%; height:30px;"></progress>
+    <progress value="15400" max="15400" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
@@ -27,7 +27,7 @@ $5,500.00 received out of $15,000.00
 
         <figure>
             <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells for poor families">
-            <figcaption><strong>Project 3:</strong> 10 Wells for 10 poor families in Southern rural areas.</figcaption>
+            <figcaption><strong>Project 3:</strong> 15 Wells for 15 poor families in Southern rural areas.</figcaption>
         </figure>     
         
         <figure>
