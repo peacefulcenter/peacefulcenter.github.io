@@ -5,7 +5,7 @@ layout: page
 permalink: /:basename/
 ---
 <summary><strong>2026 Projects (Planning)</strong></summary>
-$5,500.00 received out of $15,000.00
+$6,300.00 received out of $15,000.00
     
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
