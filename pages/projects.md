@@ -6,9 +6,9 @@ permalink: /:basename/
 ---
 <summary><strong>2026 Projects (Planning)</strong></summary>
 $6,300.00 received out of $25,000.00
-Vietnam: 2 Bridges, 1 House, 15 Wells, 150 Meals/Gifts, 20 Food Supplies
-India: 5 Wells
-US: 6 Food Serving Events at the Homeless Shelters
+<p>Vietnam: 2 Bridges, 1 House, 15 Wells, 150 Meals/Gifts, 20 Food Supplies</p>
+<p>India: 5 Wells</p>
+<p>US: 6 Food Serving Events at the Homeless Shelters</p>
     
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
