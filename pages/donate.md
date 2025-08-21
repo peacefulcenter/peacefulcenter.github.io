@@ -106,5 +106,5 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 |-------------------|-----------|
 | Dr. Phatco Nguyen | $1,000.00 |
 | Loan Nguyen       | $5,000.00 |
-| Phuong-Thuy Phan  | $800.00   |
+| Phuong-Thuy Phan  | $900.00   |
 
