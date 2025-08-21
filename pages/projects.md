@@ -8,9 +8,9 @@ permalink: /:basename/
 $6,300.00 received out of $25,000.00 <br>
 Vietnam: 2 Bridges, 1 House, 15 Wells, 150 Meals/Gifts, 20 Food Supplies<br>
 India: 5 Wells<br>
-US: 6 Food Serving Events at the Homeless Shelters<br>
+US: 6 Food Serving Events at the Homeless Shelters
     
-<details open>
+<details onclose>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
     $15,402.00 received - Fully Funded
