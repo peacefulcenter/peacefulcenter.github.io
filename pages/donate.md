@@ -67,7 +67,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
       <tr>
         <td>India</td>
         <td>Well</td>
-        <td>$350 per individual · $750 per farm</td>
+        <td>$300 per individual · $700 per farm</td>
       </tr>
     </tbody>
   </table>
