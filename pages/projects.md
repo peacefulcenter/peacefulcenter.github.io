@@ -6,7 +6,7 @@ permalink: /:basename/
 ---
 <details open>
 <summary><strong>2026 Projects (Planning)</strong></summary>
-$6,900.00 received out of $25,000.00 <br>
+$8,100.00 received out of $25,000.00 <br>
 Vietnam: 2 Bridges, 1 House, 15 Wells, 150 Meals/Gifts, 20 Food Supplies<br>
 India: 5 Wells<br>
 US: 6 Food Serving Events at the Homeless Shelters
@@ -32,7 +32,7 @@ US: 6 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells for poor families">
-            <figcaption><strong>Project 3:</strong> 15 Wells for 15 poor families in Southern rural areas.</figcaption>
+            <figcaption><strong>Project 3:</strong> 17 Wells for 17 poor families in Southern rural areas.</figcaption>
         </figure>     
         
         <figure>
