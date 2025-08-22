@@ -17,7 +17,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
     <li><strong>Volunteer-Run:</strong> We are a 100% volunteer-run organization, so all donations go directly to the cause.</li>
     <li><strong>No Hidden Costs:</strong> No administrative or operational costs will be deducted from your donations. Our team provides our own time, effort, and money to cover the rest.</li>
   </ul>
-  <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific volunteer area below.</strong></p>
+  <p><strong>You can sponsor a project partially or entirely. You can also donate to any specific mission below.</strong></p>
 </section>
 
 <details open>
