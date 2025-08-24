@@ -22,12 +22,12 @@ US: 6 Food Serving Events at the Homeless Shelters
     <div class="project-grid">
         <figure>
             <img src="{{ '/assets/images/project-images/bridges.jpeg' }}" alt="Bridges in Southern rural area">
-            <figcaption><strong>Project 1:</strong> 2 Bridges benefiting 4,000 families and schools in the Southern rural area.</figcaption>
+            <figcaption><strong>Project 1:</strong> 2 Bridges benefiting 4,000 families and schools in the Southern Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/lights.jpeg' }}" alt="Street Solar Lights in Moc Hoa">
-            <figcaption><strong>Project 2:</strong> 25 Street Solar Lights in Moc Hoa, close to the border.</figcaption>
+            <figcaption><strong>Project 2:</strong> 25 Street Solar Lights in Moc Hoa, Vietnam, close to the border.</figcaption>
         </figure>
 
         <figure>
@@ -37,17 +37,17 @@ US: 6 Food Serving Events at the Homeless Shelters
         
         <figure>
             <img src="{{ '/assets/images/project-images/food.jpeg' }}" alt="Food and supplies for Da Nang">
-            <figcaption><strong>Project 4:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang.</figcaption>
+            <figcaption><strong>Project 4:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_children.jpeg' }}" alt="Meals for children with cancer">
-            <figcaption><strong>Project 5:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang.</figcaption>
+            <figcaption><strong>Project 5:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 6:</strong> 110 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang.</figcaption>
+            <figcaption><strong>Project 6:</strong> 110 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
         </figure>
     </div>
 </details>
