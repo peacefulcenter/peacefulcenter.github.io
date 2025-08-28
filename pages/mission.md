@@ -15,13 +15,17 @@ permalink: /:basename/
 
 <section id="two">
   <header class="major">
-    <h2>Our Timeline</h2>
+    <h2>Historical Timeline</h2>
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
 
   <div class="box">
     <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
     <p>We kickstart our 6 projects of 2025 and set up our online presence.</p>
+  </div>
+  <div class="box">
+    <h3>September 2025 – Start Construction</h3>
+    <p>We kickoff the construction of the Bridges in VN and the Wells in India.</p>
   </div>
 </section>
 <!-- 
