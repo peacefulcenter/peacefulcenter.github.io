@@ -84,21 +84,21 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 ## Thank You to Our Donors – 2025 Projects
 
-| Donor Name        | Amount    | Mission                           |
-|-------------------|-----------|-----------------------------------|
-| Dr. Phatco Nguyen | $4,000.00 | As needed                         |
-| Loan Nguyen       | $2,500.00 | As needed                         |  
-| Kiet Ly           | $2,000.00 | As needed                         |  
-| Hue Duong         | $4,200.00 | 1 Bridge                          |   
-| Ngoc Nguyen       | $1,150.00 | 4 India Wells                     |
-| Hai Nguyen        | $500.00   | 2 VN Wells                        |
-| Elaine Ly         | $250.00   | 1 VN Well                         |
-| Emmy Ly           | $250.00   | 1 VN Well                         | 
-| Catherine Hoang   | $100.00   | Combined with Ngoc               |  
-| Thao Tu           | $251.00   | 1 VN Well                         | 
-| Phuong-Thuy Phan  | $1101.00  | 3 India Wells, 20 Meals and Gifts |
-| Phi Dinh Nguyen   | $250.00   | 1 VN Well                         |
-| Paula Luong       | $300.00   | 1 India Well                      |
+| Donor Name        | Amount    | Mission                              |
+|-------------------|-----------|--------------------------------------|
+| Dr. Phatco Nguyen | $4,000.00 | As needed                            |
+| Loan Nguyen       | $2,500.00 | As needed                            |  
+| Kiet Ly           | $2,000.00 | As needed                            |  
+| Hue Duong         | $4,200.00 | 1 VN Bridge                          |   
+| Ngoc Nguyen       | $1,150.00 | 4 India Wells                        |
+| Hai Nguyen        | $500.00   | 2 VN Wells                           |
+| Elaine Ly         | $250.00   | 1 VN Well                            |
+| Emmy Ly           | $250.00   | 1 VN Well                            | 
+| Catherine Hoang   | $100.00   | Combined with Ngoc                   |  
+| Thao Tu           | $251.00   | 1 VN Well                            | 
+| Phuong-Thuy Phan  | $1101.00  | 3 India Wells, 20 VN Meals and Gifts |
+| Phi Dinh Nguyen   | $250.00   | 1 VN Well                            |
+| Paula Luong       | $300.00   | 1 India Well                         |
 
 ---
 
