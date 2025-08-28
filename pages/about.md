@@ -15,7 +15,3 @@ He brings 20 years of experience in the finance sector.
 ## Dr. Phatco Nguyen
 ### Health Director
 He brings 30 years of experience as a general family doctor.
-
-## Mrs. Kim Bang Tran Le
-### Fundraising Director
-She brings 20 years of experience in fundraising for various initiatives.
