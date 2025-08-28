@@ -4,9 +4,18 @@ header_intro: Our mission is to enhance the life of people by providing necessit
 layout: page
 permalink: /:basename/
 ---
+<section id="one">
+  <header class="major">
+    <h2>Photo Library</h2>
+    <a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv?usp=sharing">Before</a>
+    <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem?usp=drive_link">Progress</a>
+    <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16?usp=drive_link">After</a> 
+  </header>  
+</section>
+
 <section id="two">
   <header class="major">
-    <h2>Our Timeline in 2025</h2>
+    <h2>Our Timeline</h2>
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
 
