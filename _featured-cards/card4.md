@@ -2,7 +2,7 @@
 layout: card
 card_id: card4
 project_title: Food and Supplies
-cost_to_support: $15 - $20 per family.
+cost_to_support: $20 per family.
 project_summary: Providing food and supplies to families in need.
 featured: true
 ---
