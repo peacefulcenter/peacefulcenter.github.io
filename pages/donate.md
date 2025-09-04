@@ -104,11 +104,13 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 ## Thank You to Our Donors – 2026 Projects
 
-| Donor Name        | Amount    | Mission                 |
-|-------------------|-----------|-------------------------|
-| Dr. Phatco Nguyen | $1,000.00 | As needed               |
-| Loan Nguyen       | $5,000.00 | As needed               |
-| Thuy Le           | $200.00   | 10 VN Food and Supplies |
-| Paula Luong       | $100.00   | 10 VN Meals and Gifts   |
-| AnhTim Phan       | $100.00   | 10 VN Meals and Gifts   |
+| Donor Name        | Amount    | Mission                   |
+|-------------------|-----------|---------------------------|
+| Dr. Phatco Nguyen | $1,000.00 | As needed                 |
+| Loan Nguyen       | $5,000.00 | As needed                 |
+| Thuy Le           | $200.00   | 10 VN Food and Supplies   |
+| Paula Luong       | $100.00   | 10 VN Meals and Gifts     |
+| AnhTim Phan       | $100.00   | 10 VN Meals and Gifts     |
+| Kim Bang Tran Le  | $1000.00  | As needed                 |
+| Ron Tan           | $1000.00  | 1 Farm Well and As needed |
 
