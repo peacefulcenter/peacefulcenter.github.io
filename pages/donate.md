@@ -114,4 +114,5 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Phi Dinh Nguyen   | $250.00    | 1 VN Well               |
 | Kim Bang Tran Le  | $1000.00   | As needed               |
 | Ngoc Nguyen       | $50.00     | As needed               | 
+| Kiet Ly           | $3,000.00  | As needed               | 
 
