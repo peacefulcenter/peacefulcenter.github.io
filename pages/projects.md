@@ -26,12 +26,12 @@ US: 4 Food Serving Events at the Homeless Shelters
         </figure-->
 
         <figure>
-            <img src="{{ '/assets/images/project-images/lights.jpeg' }}" alt="4 Farm Well in Bihar">
+            <img src="{{ '/assets/images/project-images/IndiaFarmWell.jpg' }}" alt="Farm Well in Bihar India">
             <figcaption><strong>Project 1:</strong> 4 Farm Well in Bihar, India.</figcaption>
         </figure>
 
         <figure>
-            <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells for poor families">
+            <img src="{{ '/assets/images/project-images/IndiaHomeWell.jpg' }}" alt="Home Wells in Bihar India">
             <figcaption><strong>Project 2:</strong> 20 Home Wells in Bihar, India.</figcaption>
         </figure>     
         
@@ -51,7 +51,7 @@ US: 4 Food Serving Events at the Homeless Shelters
         </figure>
 
         <figure>
-            <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
+            <img src="{{ '/assets/images/project-images/ChildrenCenterGoVap.jpg' }}" alt="Meals for elders and disabled children">
             <figcaption><strong>Project 6:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
         </figure>
     </div>
