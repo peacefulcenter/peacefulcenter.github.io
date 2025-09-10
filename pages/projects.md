@@ -20,15 +20,15 @@ US: 4 Food Serving Events at the Homeless Shelters
     <progress value="16850" max="16850" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
-        <!--figure>
+        <figure>
             <img src="{{ '/assets/images/project-images/bridges.jpeg' }}" alt="Bridges in Southern rural area">
             <figcaption><strong>Project 1:</strong> (DEFFERRED to 2026) 2 Bridges benefiting 4,000 families and schools in the Southern Vietnam.</figcaption>
-        </figure-->
+        </figure>
 
-        <figure>
+        <!--figure>
             <img src="{{ '/assets/images/project-images/IndiaFarmWell.jpg' }}" alt="Farm Well in Bihar India">
             <figcaption><strong>Project 1:</strong> 4 Farm Well in Bihar, India.</figcaption>
-        </figure>
+        </figure-->
 
         <figure>
             <img src="{{ '/assets/images/project-images/IndiaHomeWell.jpg' }}" alt="Home Wells in Bihar India">
