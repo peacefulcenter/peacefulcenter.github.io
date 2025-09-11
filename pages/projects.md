@@ -37,7 +37,7 @@ US: 4 Food Serving Events at the Homeless Shelters
         
         <figure>
             <img src="{{ '/assets/images/project-images/food.jpeg' }}" alt="Food and supplies for Da Nang">
-            <figcaption><strong>Project 3:</strong> 40 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 3:</strong> 40 Food/Supply Portions to 40 families in the deep mountain in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
