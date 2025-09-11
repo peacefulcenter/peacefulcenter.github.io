@@ -27,12 +27,12 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/IndiaFarmWell.JPG' }}" alt="Farm Well in Bihar India">
-            <figcaption><strong>Project 1:</strong> 4 Farm Well in Bihar, India.</figcaption>
+            <figcaption><strong>Project 1:</strong> 4 Farm Wells in Bihar, India.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/IndiaHomeWell.JPG' }}" alt="Home Wells in Bihar India">
-            <figcaption><strong>Project 2:</strong> 20 Home Wells in Bihar, India.</figcaption>
+            <figcaption><strong>Project 2:</strong> 22 Home Wells in Bihar, India.</figcaption>
         </figure>     
         
         <figure>
