@@ -2,7 +2,7 @@
 layout: card
 card_id: card1
 project_title: Shelter
-cost_to_support: $3200 - $3500 per home.
+cost_to_support: $3500 per home.
 project_summary: Providing a home to the homeless.
 featured: true
 ---
