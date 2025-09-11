@@ -2,7 +2,7 @@
 layout: card
 card_id: card2
 project_title: Infrastructure
-cost_to_support: $6000 per bridge; $60 per solar street light
+cost_to_support: $6000 per bridge; $60 per solar light
 project_summary: Providing roads, bridges, and solar light to rural areas.
 featured: true
 ---
