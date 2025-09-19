@@ -21,10 +21,10 @@ permalink: /:basename/
 
   <div class="box">
     <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
-    <p>We kickstart our 6 projects of 2025 and set up our online presence.</p>
+    <p>We kickstart our 8 projects of 2025 and set up our online presence.</p>
   </div>
   <div class="box">
-    <h3>September 2025 – Start Construction</h3>
+    <h3>September 2025 – Home Well Construction</h3>
     <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
   </div>
 </section>
