@@ -62,7 +62,7 @@ US: 4 Food Serving Events at the Homeless Shelters
         </figure>
 
         <figure>
-            <img src="{{ '/assets/images/project-images/Blind.jpeg' }}" alt="Health and Food for Blind People">
+            <img src="{{ '/assets/images/project-images/Blind.jpg' }}" alt="Health and Food for Blind People">
             <figcaption><strong>Project 9:</strong> 100 Health and Food to Blind People (TBD Location).</figcaption>
         </figure>
         
