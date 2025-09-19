@@ -42,7 +42,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
       <tr>
         <td>Vietnam</td>
         <td>Bridge</td>
-        <td>$6,000 per bridge</td>
+        <td>$5,000 - $8,000 per bridge</td>
       </tr>
       <tr>
         <td>Vietnam</td>
@@ -52,7 +52,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
       <tr>
         <td>Vietnam</td>
         <td>Shelter</td>
-        <td>$3,500 per house</td>
+        <td>$3,000 per house</td>
       </tr>
       <tr>
         <td>Vietnam</td>
@@ -84,22 +84,25 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 ## Thank You to Our Donors – 2025 Projects
 
-| Donor Name                                 | Amount    | Mission                                                                          |
-|--------------------------------------------|-----------|----------------------------------------------------------------------------------|
-| Dr. Phatco Nguyen                          | $2,500.00 | 1 India Farm Well, 4 India Home Well, 10 VN Food Supplies, 40 VN Meals and Gifts |
-| Loan Nguyen                                | $2,800.00 | 1 India Farm Well, 4 India Home Well, 10 VN Food Supplies, 70 VN Meals and Gifts |  
-| Kiet Ly                                    | $2,000.00 | 1 India Farm Well, 2 India Home Well, 10 VN Food Supplies, 50 VN Meals and Gifts |  
-| Ngoc Nguyen                                | $1,100.00 | 4 India Wells                                                                    |
-| Hai Dinh Nguyen                            | $600.00   | 2 India Wells                                                                    |
-| Elaine Ly                                  | $300.00   | 1 India Well                                                                     |
-| Emmy Ly                                    | $300.00   | 1 India Well                                                                     | 
-| Catherine Hoang                            | $100.00   | Combined with Ngoc                                                               |  
-| Phuong-Thuy Phan                           | $1101.00  | 3 India Wells, 20 VN Meals and Gifts                                             |
-| AnhTim Phan                                | $100.00   | 10 VN Meals and Gifts                                                            |
-| Paula Luong                                | $400.00   | 1 India Well and 10 VN Meals and Gifts                                           |
-| Clarity Government Solutions LLC (Ron Tan) | $1,000.00 | 1 India Farm Well, 30 VN Meals and Gifts                                         |
-| Thuy Le                                    | $200.00   | 10 VN Food and Supplies                                                          |
-
+| Donor Name                                 | Amount    | Mission                                                                                     |
+|--------------------------------------------|-----------|---------------------------------------------------------------------------------------------|
+| Dr. Phatco Nguyen                          | $5,000.00 | 1 India Farm Well, Half Bridge, 10 VN Food/Supplies, 10 VN Health/Food, 10 VN Meals/Gifts   |
+| Loan Nguyen                                | $5,000.00 | 1 India Farm Well, 1 India Home Well, Quarter Bridge, 50 VN Health/Food, 130 VN Meals/Gifts |  
+| Kiet Ly                                    | $3,000.00 | 1 India Farm Well, Quarter Bridge, 30 VN Health/Food, 15 VN Meals/Gifts                     |  
+| Ngoc Nguyen                                | $1,100.00 | 4 India Wells                                                                               |
+| Hai Dinh Nguyen                            | $600.00   | 2 India Wells                                                                               |
+| Elaine Ly                                  | $250.00   | 1 VN Well                                                                                   |
+| Emmy Ly                                    | $250.00   | 1 VN Well                                                                                   | 
+| Catherine Hoang                            | $100.00   | Combined with Ngoc                                                                          |  
+| Phuong-Thuy Phan                           | $1101.00  | 3 India Wells, 20 VN Meals/Gifts                                                            |
+| AnhTim Phan                                | $100.00   | 10 VN Meals/Gifts                                                                           |
+| Paula Luong                                | $400.00   | 1 India Well and 10 VN Meals/Gifts                                                          |
+| Clarity Government Solutions LLC (Ron Tan) | $1,000.00 | 1 India Farm Well, 30 VN Meals/Gifts                                                        |
+| Thuy Le                                    | $200.00   | 10 VN Food/Supplies                                                                         |
+| Hue Duong                                  | $4,600.00 | 1 VN Bridge                                                                                 |  
+| Thao Tu                                    | $251.00   | 1 VN Well                                                                                   |
+| Phi Dinh Nguyen                            | $250.00   | 1 VN Well                                                                                   |
+| Kim Bang Tran Le                           | $1000.00  | 2 VN wells, 10 Health/Food, 30 Meals/Gifts                                                  |
 
 ---
 
@@ -107,12 +110,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 | Donor Name        | Amount     | Mission                 |
 |-------------------|------------|-------------------------|
-| Dr. Phatco Nguyen | $2,500.00  | As needed               |
 | Loan Nguyen       | $10,000.00 | As needed               |
-| Hue Duong         | $4,200.00  | 1 VN Bridge             |  
-| Thao Tu           | $251.00    | 1 VN Well               |
-| Phi Dinh Nguyen   | $250.00    | 1 VN Well               |
-| Kim Bang Tran Le  | $1000.00   | As needed               |
 | Ngoc Nguyen       | $50.00     | As needed               | 
 | Kiet Ly           | $3,000.00  | As needed               | 
 

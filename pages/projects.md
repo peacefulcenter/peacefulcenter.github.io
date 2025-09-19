@@ -6,54 +6,59 @@ permalink: /:basename/
 ---
 <details open>
 <summary><strong>2026 Projects (Planning)</strong></summary>
-$21,251.00 received out of $32,100.00 <br>
-<progress value="21215" max="32100" style="width:100%; height:30px;"></progress>
-Vietnam: 2 Bridges, 20 Home Wells, 200 Meals/Gifts, 30 Food Supplies<br>
-India: 20 Home Wells and 5 Farm Well<br>
+$13,050.00 received out of $28,300.00 <br>
+<progress value="13050" max="28300" style="width:100%; height:30px;"></progress>
+Vietnam: 1 Bridge, 20 Home Wells, 50 Solar Lights, 150 Meals/Gifts, 20 Food/Supplies, 100 Health/Food<br>
+India: 20 Home Wells and 2 Farm Well<br>
 US: 4 Food Serving Events at the Homeless Shelters
 </details>
 
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $12,501.00 Received - Fully Funded
+    $24,201.00 Received - Fully Funded
 
-    <progress value="12500" max="12500" style="width:100%; height:30px;"></progress>
+    <progress value="24200" max="24200" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
-        <!--figure>
+        <figure>
             <img src="{{ '/assets/images/project-images/bridges.jpeg' }}" alt="Bridges in Southern rural area">
-            <figcaption><strong>Project 1:</strong> (DEFFERRED to 2026) 2 Bridges benefiting 4,000 families and schools in the Southern Vietnam.</figcaption>
-        </figure-->
+            <figcaption><strong>Project 1:</strong>2 Bridges benefiting thousands of people and students in the Southern Vietnam.</figcaption>
+        </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/IndiaFarmWell.JPG' }}" alt="Farm Well in Bihar India">
-            <figcaption><strong>Project 1:</strong> 4 Farm Wells in Bihar, India.</figcaption>
+            <figcaption><strong>Project 2:</strong> 3 Farm Wells in Bihar, India.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/IndiaHomeWell.JPG' }}" alt="Home Wells in Bihar India">
-            <figcaption><strong>Project 2:</strong> 22 Home Wells in Bihar, India.</figcaption>
+            <figcaption><strong>Project 3:</strong> 11 Home Wells in Bihar, India.</figcaption>
         </figure>     
         
         <figure>
             <img src="{{ '/assets/images/project-images/food.jpeg' }}" alt="Food and supplies for Da Nang">
-            <figcaption><strong>Project 3:</strong> 40 Food/Supply Portions to 40 families in the deep mountain in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 4:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_children.jpeg' }}" alt="Meals for children with cancer">
-            <figcaption><strong>Project 4:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 5:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 5:</strong> 100 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 6:</strong> 100 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/ChildrenCenterGoVap.jpg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 6:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
+            <figcaption><strong>Project 7:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
+        </figure>
+
+        <figure>
+            <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells in VN">
+            <figcaption><strong>Project 8:</strong> 6 wells in Southern Vietnam.</figcaption>
         </figure>
     </div>
 </details>
