@@ -61,6 +61,11 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
       </tr>
       <tr>
         <td>Vietnam</td>
+        <td>Health and Food</td>
+        <td>$20 per family</td>
+      </tr>
+      <tr>
+        <td>Vietnam</td>
         <td>Meals and Gifts</td>
         <td>$10 per individual</td>
       </tr>
