@@ -9,7 +9,7 @@ permalink: /:basename/
 $13,050.00 received out of $28,300.00 <br>
 <progress value="13050" max="28300" style="width:100%; height:30px;"></progress>
 Vietnam: 1 Bridge, 20 Home Wells, 50 Solar Lights, 150 Meals/Gifts, 20 Food/Supplies, 100 Health/Food<br>
-India: 20 Home Wells and 2 Farm Well<br>
+India: 20 Home Wells and 2 Farm Wells<br>
 US: 4 Food Serving Events at the Homeless Shelters
 </details>
 
@@ -23,7 +23,7 @@ US: 4 Food Serving Events at the Homeless Shelters
     <div class="project-grid">
         <figure>
             <img src="{{ '/assets/images/project-images/bridges.jpeg' }}" alt="Bridges in Southern rural area">
-            <figcaption><strong>Project 1:</strong>2 Bridges benefiting thousands of people and students in the Southern Vietnam.</figcaption>
+            <figcaption><strong>Project 1:</strong> 2 Bridges benefiting thousands of people and students in the Southern Vietnam.</figcaption>
         </figure>
 
         <figure>
@@ -35,30 +35,36 @@ US: 4 Food Serving Events at the Homeless Shelters
             <img src="{{ '/assets/images/project-images/IndiaHomeWell.JPG' }}" alt="Home Wells in Bihar India">
             <figcaption><strong>Project 3:</strong> 11 Home Wells in Bihar, India.</figcaption>
         </figure>     
-        
+
+        <figure>
+            <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells in VN">
+            <figcaption><strong>Project 4:</strong> 6 wells in Southern Vietnam.</figcaption>
+        </figure>
+
         <figure>
             <img src="{{ '/assets/images/project-images/food.jpeg' }}" alt="Food and supplies for Da Nang">
-            <figcaption><strong>Project 4:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 5:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_children.jpeg' }}" alt="Meals for children with cancer">
-            <figcaption><strong>Project 5:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 6:</strong> 30 Meals/Gifts to the Children Cancer Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 6:</strong> 100 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 7:</strong> 100 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/ChildrenCenterGoVap.jpg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 7:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
+            <figcaption><strong>Project 8:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
         </figure>
 
         <figure>
-            <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells in VN">
-            <figcaption><strong>Project 8:</strong> 6 wells in Southern Vietnam.</figcaption>
+            <img src="{{ '/assets/images/project-images/Blind.JPEG' }}" alt="Health and Food for Blind People">
+            <figcaption><strong>Project 9:</strong> 100 Health and Food to Blind People (TBD Location).</figcaption>
         </figure>
+        
     </div>
 </details>
