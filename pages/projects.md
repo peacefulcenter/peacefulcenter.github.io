@@ -16,9 +16,9 @@ US: 4 Food Serving Events at the Homeless Shelters
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $24,201.00 Received - Fully Funded
+    $24,601.00 Received - Fully Funded
 
-    <progress value="24200" max="24200" style="width:100%; height:30px;"></progress>
+    <progress value="24600" max="24600" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
@@ -58,12 +58,17 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/ChildrenCenterGoVap.jpg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 8:</strong> 100 Meals/Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
+            <figcaption><strong>Project 8:</strong> 200 Gifts to Disabled Children Center in Go Vap, Vietnam.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/Blind.jpg' }}" alt="Health and Food for Blind People">
             <figcaption><strong>Project 9:</strong> 100 Health and Food to Blind People (TBD Location).</figcaption>
+        </figure>
+
+        <figure>
+            <img src="{{ '/assets/images/project-images/TroRayMeal.jpg' }}" alt="Breakfast for TroRay Hospital">
+            <figcaption><strong>Project 10:</strong> 400 Breakfasts for patients at Tro Ray Hospital, Vietnam.</figcaption>
         </figure>
         
     </div>
