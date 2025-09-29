@@ -16,9 +16,9 @@ US: 4 Food Serving Events at the Homeless Shelters
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $24,601.00 Received - Fully Funded
+    $24,701.00 Received - Fully Funded
 
-    <progress value="24600" max="24600" style="width:100%; height:30px;"></progress>
+    <progress value="24700" max="24700" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
@@ -68,7 +68,7 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/TroRayMeal.jpg' }}" alt="Breakfast for TroRay Hospital">
-            <figcaption><strong>Project 10:</strong> 400 Breakfasts for patients at Tro Ray Hospital, Vietnam.</figcaption>
+            <figcaption><strong>Project 10:</strong> 500 Meals for patients at Tro Ray Hospital, Vietnam.</figcaption>
         </figure>
         
     </div>
