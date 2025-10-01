@@ -27,6 +27,10 @@ permalink: /:basename/
     <h3>September 2025 – Home Well Construction</h3>
     <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
   </div>
+  <div class="box">
+    <h3>October 2025 – Farm Well Construction</h3>
+    <p>We complete the construction of 3 Farm Wells in Bihar, India.</p>
+  </div>
 </section>
 <!-- 
 <section id="three">
