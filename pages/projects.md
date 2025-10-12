@@ -9,16 +9,16 @@ permalink: /:basename/
 $13,050.00 received out of $28,300.00 <br>
 <progress value="13050" max="28300" style="width:100%; height:30px;"></progress>
 Vietnam: 1 Bridge, 20 Home Wells, 50 Solar Lights, 150 Meals/Gifts, 20 Food/Supplies, 100 Health/Food<br>
-India: 20 Home Wells and 2 Farm Wells<br>
+India: 15 Home Wells, 2 Farm Wells, 15 students<br>
 US: 4 Food Serving Events at the Homeless Shelters
 </details>
 
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $24,701.00 Received - Fully Funded
+    $25,701.00 Received - Fully Funded
 
-    <progress value="24700" max="24700" style="width:100%; height:30px;"></progress>
+    <progress value="25700" max="25700" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
@@ -69,6 +69,11 @@ US: 4 Food Serving Events at the Homeless Shelters
         <figure>
             <img src="{{ '/assets/images/project-images/TroRayMeal.jpg' }}" alt="Breakfast for TroRay Hospital">
             <figcaption><strong>Project 10:</strong> 500 Meals for patients at Tro Ray Hospital, Vietnam.</figcaption>
+        </figure>
+
+        <figure>
+            <img src="{{ '/assets/images/project-images/Education.jpg' }}" alt="Student Sponsorship Program">
+            <figcaption><strong>Project 11:</strong> Sponsor 10 students to obtain a year of education in India.</figcaption>
         </figure>
         
     </div>

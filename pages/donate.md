@@ -93,7 +93,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 |--------------------------------------------|-----------|-----------------------------------------------------------------------------------------------|
 | Dr. Phatco Nguyen                          | $5,000.00 | 1 India Farm Well, Half Bridge, 10 VN Food/Supplies, 10 VN Health/Food, 10 VN Meals/Gifts     |
 | Loan Nguyen                                | $5,000.00 | Half India Farm Well, 1 India Home Well, Quarter Bridge, 50 VN Health/Food, 95 VN Meals/Gifts |  
-| Kiet Ly                                    | $3,000.00 | Half India Farm Well, Quarter Bridge, 30 VN Health/Food, 15 VN Meals/Gifts                    |  
+| Kiet Ly                                    | $4,000.00 | Half India Farm Well, Quarter Bridge, 30 VN Health/Food, 15 VN Meals/Gifts, 10 Students       |  
 | Ngoc Nguyen                                | $1,100.00 | 4 India Wells                                                                                 |
 | Hai Dinh Nguyen                            | $600.00   | 2 India Wells                                                                                 |
 | Elaine Ly                                  | $250.00   | 1 VN Well                                                                                     |
@@ -120,5 +120,5 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 |-------------------|------------|-------------------------|
 | Loan Nguyen       | $10,000.00 | As needed               |
 | Ngoc Nguyen       | $50.00     | As needed               | 
-| Kiet Ly           | $3,000.00  | As needed               | 
+| Kiet Ly           | $5,000.00  | As needed               | 
 
