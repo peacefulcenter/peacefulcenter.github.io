@@ -73,7 +73,7 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/Education.jpg' }}" alt="Student Sponsorship Program">
-            <figcaption><strong>Project 11:</strong> 10 students sponsorship to obtain a year of education in India.</figcaption>
+            <figcaption><strong>Project 11:</strong> 10 students to obtain a year of education in India.</figcaption>
         </figure>
 
         <figure>
