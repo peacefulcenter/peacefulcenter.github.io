@@ -16,9 +16,9 @@ US: 4 Food Serving Events at the Homeless Shelters
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $25,701.00 Received - Fully Funded
+    $27,701.00 Received - Fully Funded
 
-    <progress value="25700" max="25700" style="width:100%; height:30px;"></progress>
+    <progress value="27700" max="27700" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
@@ -73,7 +73,12 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/Education.jpg' }}" alt="Student Sponsorship Program">
-            <figcaption><strong>Project 11:</strong> Sponsor 10 students to obtain a year of education in India.</figcaption>
+            <figcaption><strong>Project 11:</strong> 10 students sponsorship to obtain a year of education in India.</figcaption>
+        </figure>
+
+        <figure>
+            <img src="{{ '/assets/images/project-images/PhatDuongPhuocHue-RepairNeed.JPG' }}" alt="Temple Roof and Ceiling Repair">
+            <figcaption><strong>Project 12:</strong> 1 shelter repair for Phat Duong Phuoc Hue.</figcaption>
         </figure>
         
     </div>

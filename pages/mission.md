@@ -21,7 +21,7 @@ permalink: /:basename/
 
   <div class="box">
     <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
-    <p>We kickstart our 11 projects of 2025 and set up our online presence.</p>
+    <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
   </div>
   <div class="box">
     <h3>September 2025 – Home Well Construction</h3>
