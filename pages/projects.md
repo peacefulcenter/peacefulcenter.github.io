@@ -78,7 +78,7 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/PhatDuongPhuocHue-RepairNeed.JPG' }}" alt="Temple Roof and Ceiling Repair">
-            <figcaption><strong>Project 12:</strong> Repair Phat Duong Phuoc Hue.</figcaption>
+            <figcaption><strong>Project 12:</strong> Repair Phat Duong Phuoc Hue in Vietnam.</figcaption>
         </figure>
         
     </div>
