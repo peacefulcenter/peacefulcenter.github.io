@@ -73,12 +73,12 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/Education.jpg' }}" alt="Student Sponsorship Program">
-            <figcaption><strong>Project 11:</strong> 10 students to obtain a year of education in India.</figcaption>
+            <figcaption><strong>Project 11:</strong> Sponsor 10 students to obtain a year of education in India.</figcaption>
         </figure>
 
         <figure>
             <img src="{{ '/assets/images/project-images/PhatDuongPhuocHue-RepairNeed.JPG' }}" alt="Temple Roof and Ceiling Repair">
-            <figcaption><strong>Project 12:</strong> 1 shelter repair for Phat Duong Phuoc Hue.</figcaption>
+            <figcaption><strong>Project 12:</strong> Repair Phat Duong Phuoc Hue.</figcaption>
         </figure>
         
     </div>
