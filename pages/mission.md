@@ -33,6 +33,18 @@ permalink: /:basename/
     <h3>October 2025 – Farm Well Construction</h3>
     <p>We complete the construction of 3 Farm Wells in Bihar, India.</p>
   </div>
+  <div class="box">
+    <h3>November 2025 – Vietnam Well Construction</h3>
+    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.</p>
+  </div>
+  <div class="box">
+    <h3>December 2025 – Vietnam Bridge Construction</h3>
+    <p>We are building the 2 bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
+  </div>
+  <div class="box">
+    <h3>January-February 2026 – Foods, Meals, and Supplies distributions</h3>
+    <p>We will personally visit orphanage, cancer, hospital, disabled, elderly, blind, indigenous villagers.</p>
+  </div>
 </section>
 <!-- 
 <section id="three">
