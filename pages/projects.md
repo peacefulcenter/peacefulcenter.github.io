@@ -37,8 +37,8 @@ US: 4 Food Serving Events at the Homeless Shelters
         </figure>     
 
         <figure>
-            <img src="{{ '/assets/images/project-images/wells.jpeg' }}" alt="Wells in VN">
-            <figcaption><strong>Project 4:</strong> 6 Wells in Southern Vietnam.</figcaption>
+            <img src="{{ '/assets/images/project-images/VietNamWell.JPG' }}" alt="Wells in VN">
+            <figcaption><strong>Project 4:</strong> 9 Wells in Southern Vietnam.</figcaption>
         </figure>
 
         <figure>
