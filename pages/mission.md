@@ -26,16 +26,17 @@ permalink: /:basename/
     <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
   </div>
   <div class="box">
-    <h3>September 2025 – Home Well Construction</h3>
+    <h3>September 2025 – India Home Well Construction</h3>
     <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
   </div>
   <div class="box">
-    <h3>October 2025 – Farm Well Construction</h3>
+    <h3>October 2025 – India Farm Well Construction</h3>
     <p>We complete the construction of 3 Farm Wells in Bihar, India.</p>
   </div>
   <div class="box">
     <h3>November 2025 – Vietnam Well Construction</h3>
-    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.</p>
+    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
+       We sponsor a year of study for 10 students in Bihar, India</p>
   </div>
   <div class="box">
     <h3>December 2025 – Vietnam Bridge Construction</h3>
