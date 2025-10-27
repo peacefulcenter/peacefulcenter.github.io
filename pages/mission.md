@@ -32,7 +32,8 @@ permalink: /:basename/
   <div class="box">
     <h3>October 2025 – India Farm Well Construction</h3>
     <p>We complete the construction of 3 Farm Wells in Bihar, India. <br>
-        We also sponsor a year of study for 10 students in Bihar, India</p>
+        We also sponsor a year of study for 10 students in Bihar, India and 
+        distribute chocolates and monetary to hundreds of children in Gaya, India.</p>
   </div>
   <div class="box">
     <h3>November 2025 – Vietnam Well Construction</h3>
@@ -43,7 +44,7 @@ permalink: /:basename/
     <p>We are building the 2 bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
   </div>
   <div class="box">
-    <h3>January-February 2026 – Vietnam Foods, Meals, and Supplies distributions</h3>
+    <h3>January-February 2026 – Vietnam Foods, Meals, Supplies, and Monetary distributions</h3>
     <p>We will personally visit orphanage, cancer, hospital, disabled, elderly, blind, indigenous villagers.</p>
   </div>
 </section>
