@@ -43,7 +43,7 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/food.jpeg' }}" alt="Food and supplies for Da Nang">
-            <figcaption><strong>Project 5:</strong> 20 Food/Supply Portions to 20 families in the deep mountain in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 5:</strong> 30 Food/Supply Portions to 30 families in the deep mountain in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
@@ -53,7 +53,7 @@ US: 4 Food Serving Events at the Homeless Shelters
 
         <figure>
             <img src="{{ '/assets/images/project-images/meals_for_elders.jpeg' }}" alt="Meals for elders and disabled children">
-            <figcaption><strong>Project 7:</strong> 100 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
+            <figcaption><strong>Project 7:</strong> 120 Meals/Gifts to Family-less Elders and Disabled Children Center in Da Nang, Vietnam.</figcaption>
         </figure>
 
         <figure>
