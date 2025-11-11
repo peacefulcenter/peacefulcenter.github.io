@@ -84,6 +84,11 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
         <td>Education</td>
         <td>$100 per student per year</td>
       </tr>
+      <tr>
+        <td>India</td>
+        <td>Meals and Gifts</td>
+        <td>$10 per family</td>
+      </tr>
     </tbody>
   </table>
   <em>Note: Costs are estimates and may vary by location, season, and materials.</em>
