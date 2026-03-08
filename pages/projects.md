@@ -7,7 +7,7 @@ permalink: /:basename/
 <details open>
 <summary><strong>2027 Projects (Planning)</strong></summary>
 $20,000.00 received out of $45,000.00 <br>
-<progress value="20000" max="45,000" style="width:100%; height:30px;"></progress>
+<progress value="20000" max="45000" style="width:100%; height:30px;"></progress>
 Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food Supplies, 1 House Repair<br>
 India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
 US: 2 Food Serving Events at the Homeless Shelters<br>
@@ -25,11 +25,11 @@ US: 2 Food Serving Events at the Homeless Shelters
 </details>
 
 <details open>
-<summary><strong>2025 Projects (Ongoing)</strong></summary>
+<summary><strong>2025 Projects (Completed)</strong></summary>
     
-    $30,911.00 Received - Completed 
-    <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charities</a>
-    <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Completion</a>
+    $30,911.00 Spent on  
+    <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charities</a> and
+    <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Constructions</a>
     <progress value="30911" max="30911" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
