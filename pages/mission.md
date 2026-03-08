@@ -37,8 +37,8 @@ permalink: /:basename/
   </div>
   <div class="box">
     <h3>November 2025 – Vietnam Bridges and Wells Construction</h3>
-    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.</p>
-    <p>We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
+    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
+    We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
   </div>
   <div class="box">
     <h3>December 2025 – Vietnam Charity Tours</h3>    
@@ -50,8 +50,8 @@ permalink: /:basename/
   </div>
  <div class="box">
     <h3>February 2026 – Vietnam Bridge and Wells Construction</h3>
-    <p>We started the construction of 13 Home Wells in Vietnam.</p>
-    <p>We started the construction of 1 Bridge in South Vietnam.</p>
+    <p>We started the construction of 13 Home Wells in Vietnam.<br>
+    We started the construction of 1 Bridge in South Vietnam.</p>
   </div>
 
 
