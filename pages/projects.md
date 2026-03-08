@@ -5,20 +5,31 @@ layout: page
 permalink: /:basename/
 ---
 <details open>
-<summary><strong>2026 Projects (Planning)</strong></summary>
-$24,700.00 received out of $32,300.00 <br>
-<progress value="24700" max="32300" style="width:100%; height:30px;"></progress>
-Vietnam: 1 Bridge, 20 Home Wells, 50 Solar Lights, 150 Meals/Gifts, 20 Food/Supplies, 100 Health/Food<br>
-India: 10 Home Wells, 2 Farm Wells, 10 students, 600 Meals/Gifts<br>
-US: 4 Food Serving Events at the Homeless Shelters
+<summary><strong>2027 Projects (Planning)</strong></summary>
+$20,000.00 received out of $45,000.00 <br>
+<progress value="20000" max="45,000" style="width:100%; height:30px;"></progress>
+Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food Supplies, 1 House Repair<br>
+India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
+US: 2 Food Serving Events at the Homeless Shelters<br>
+Sri Lanca: 500 Food Supplies<br>
+Combodia: 500 Food Supplies<br>
+</details>
+
+<details open>
+<summary><strong>2026 Projects (On-Going)</strong></summary>
+$33,700.00 received out of $36,800.00 <br>
+<progress value="33700" max="36800" style="width:100%; height:30px;"></progress>
+Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food/Supplies, 1 House Repair<br>
+India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
+US: 2 Food Serving Events at the Homeless Shelters
 </details>
 
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $27,701.00 Received - Fully Funded
+    $30,911.00 Received - Completed
 
-    <progress value="27700" max="27700" style="width:100%; height:30px;"></progress>
+    <progress value="30911" max="30911" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">
         <figure>
