@@ -27,8 +27,9 @@ US: 2 Food Serving Events at the Homeless Shelters
 <details open>
 <summary><strong>2025 Projects (Ongoing)</strong></summary>
     
-    $30,911.00 Received - Completed
-
+    $30,911.00 Received - Completed 
+    <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charities</a>
+    <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Completion</a>
     <progress value="30911" max="30911" style="width:100%; height:30px;"></progress>
 
     <div class="project-grid">

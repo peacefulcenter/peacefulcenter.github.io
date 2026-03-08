@@ -36,17 +36,25 @@ permalink: /:basename/
         We distribute chocolates and monetary to hundreds of children in Gaya, India.</p>
   </div>
   <div class="box">
-    <h3>November 2025 – Vietnam Well Construction</h3>
+    <h3>November 2025 – Vietnam Bridges and Wells Construction</h3>
     <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.</p>
+    <p>We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
   </div>
   <div class="box">
-    <h3>December 2025 – Vietnam Bridge Construction</h3>
-    <p>We are building the 2 bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
+    <h3>December 2025 – Vietnam Charity Tours</h3>    
+    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
   </div>
-  <div class="box">
-    <h3>January-February 2026 – Vietnam Foods, Meals, Supplies, and Monetary distributions</h3>
-    <p>We will personally visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers.</p>
+ <div class="box">
+    <h3>February 2026 – India Charity Tours</h3>
+    <p>We visit Gaya and Dharamsala to distribute food, medicine, gifts, and supplies.</p>
   </div>
+ <div class="box">
+    <h3>February 2026 – Vietnam Bridge and Wells Construction</h3>
+    <p>We started the construction of 13 Home Wells in Vietnam.</p>
+    <p>We started the construction of 1 Bridge in South Vietnam.</p>
+  </div>
+
+
 </section>
 <!-- 
 <section id="three">
