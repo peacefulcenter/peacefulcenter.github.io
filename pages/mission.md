@@ -21,13 +21,24 @@ permalink: /:basename/
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
 
+
   <div class="box">
-    <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
-    <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
+    <h3>March 2026 – Vietnam Bridge and Wells Construction</h3>
+    <p>We started the construction of 13 Home Wells in Vietnam.<br>
+    We started the construction of 1 Bridge in South Vietnam.</p>
   </div>
   <div class="box">
-    <h3>September 2025 – India Home Well Construction</h3>
-    <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
+    <h3>February 2026 – India Charity Tours</h3>
+    <p>We visit Gaya and Dharamsala to distribute food, medicine, gifts, and supplies.</p>
+  </div>
+  <div class="box">
+    <h3>December 2025 – Vietnam Charity Tours</h3>    
+    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
+  </div>
+  <div class="box">
+    <h3>November 2025 – Vietnam Bridges and Wells Construction</h3>
+    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
+    We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
   </div>
   <div class="box">
     <h3>October 2025 – India Farm Well Construction</h3>
@@ -36,23 +47,18 @@ permalink: /:basename/
         We distribute chocolates and monetary to hundreds of children in Gaya, India.</p>
   </div>
   <div class="box">
-    <h3>November 2025 – Vietnam Bridges and Wells Construction</h3>
-    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
-    We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
+    <h3>September 2025 – India Home Well Construction</h3>
+    <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
   </div>
   <div class="box">
-    <h3>December 2025 – Vietnam Charity Tours</h3>    
-    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
+    <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
+    <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
   </div>
- <div class="box">
-    <h3>February 2026 – India Charity Tours</h3>
-    <p>We visit Gaya and Dharamsala to distribute food, medicine, gifts, and supplies.</p>
-  </div>
- <div class="box">
-    <h3>February 2026 – Vietnam Bridge and Wells Construction</h3>
-    <p>We started the construction of 13 Home Wells in Vietnam.<br>
-    We started the construction of 1 Bridge in South Vietnam.</p>
-  </div>
+
+  
+  
+ 
+
 
 
 </section>
