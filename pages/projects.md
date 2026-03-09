@@ -6,7 +6,7 @@ permalink: /:basename/
 ---
 <details open>
 <summary><strong>2027 Projects (Planning)</strong></summary>
-$20,000.00 received out of $45,000.00 <br>
+$20,000.00 received out of $45,000.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Status</a>
 <progress value="20000" max="45000" style="width:100%; height:30px;"></progress>
 Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food Supplies, 1 House Repair<br>
 India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
@@ -17,7 +17,7 @@ Combodia: 500 Food Supplies<br>
 
 <details open>
 <summary><strong>2026 Projects (On-Going)</strong></summary>
-$33,700.00 received out of $36,800.00 <br>
+$33,700.00 received out of $36,800.00 <a href="https://drive.google.com/file/d/1j4aw7VSrawgPUBHTJL1as-MrcA2WFKC_/view?usp=sharing">Status</a>
 <progress value="33700" max="36800" style="width:100%; height:30px;"></progress>
 Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food/Supplies, 1 House Repair<br>
 India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
