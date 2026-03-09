@@ -18,7 +18,7 @@ He brings 30 years of experience as a general family doctor.
 
 ---
 
-## Financial Reports
-<a href="https://drive.google.com/file/d/16n2HvgAK3lofYJMYf1IcYoy6uDPkv74Y/view?usp=sharing"><Strong>2025</Strong></a>
+## Peaceful Mind 501C3 - Financial Reports
+<a href="https://drive.google.com/file/d/16n2HvgAK3lofYJMYf1IcYoy6uDPkv74Y/view?usp=sharing">2025</a>
 
 ---
