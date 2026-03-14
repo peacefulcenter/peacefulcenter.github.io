@@ -6,12 +6,12 @@ permalink: /:basename/
 ---
 <details open>
 <summary><strong>2027 Projects (Planning)</strong></summary>
-$20,000.00 received out of $45,000.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Start</a>
+$20,000.00 received out of $45,000.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Estimate</a>
 <progress value="20000" max="45000" style="width:100%; height:30px;"></progress>
 Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food Supplies, 1 House Repair<br>
 India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
 US: 2 Food Serving Events at the Homeless Shelters<br>
-Sri Lanca: 500 Food Supplies<br>
+Sri Lanka: 500 Food Supplies<br>
 Combodia: 500 Food Supplies<br>
 </details>
 
