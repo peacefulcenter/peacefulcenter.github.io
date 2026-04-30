@@ -55,17 +55,17 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
         <td>$4,000 per house</td>
       </tr>
       <tr>
-        <td>Vietnam/India</td>
+        <td>Vietnam/India/Sri Lanka</td>
         <td>Food and Supplies</td>
         <td>$20 per family</td>
       </tr>
       <tr>
-        <td>Vietnam/India</td>
+        <td>Vietnam/India/Sri Lanka</td>
         <td>Health</td>
         <td>$50 per patient</td>
       </tr>
       <tr>
-        <td>Vietnam/India</td>
+        <td>Vietnam/India/Sri Lanka</td>
         <td>Meals and Gifts</td>
         <td>$10 per individual</td>
       </tr>
@@ -117,6 +117,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Kim-Loan Nguyen         | $3,400.00  | Bridge in VN                     |
 | Hoai Trang              | $100.00    | India Food/Supplies              |
 | Jeffrey Rosenberg       | $250.00    | VN Well                          |
+| Ha Hoang                | $400.00    | TBD                              |
 
 
 ## Thank You to Our Donors – 2025 Projects
