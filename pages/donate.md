@@ -52,7 +52,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
       <tr>
         <td>Vietnam</td>
         <td>Shelter</td>
-        <td>$4,000 per house</td>
+        <td>$3,000 - $8,000 per house</td>
       </tr>
       <tr>
         <td>Vietnam/India/Sri Lanka</td>
