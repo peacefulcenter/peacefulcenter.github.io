@@ -105,7 +105,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 | Donor Name              | Amount     | Mission                          |
 |-------------------------|------------|----------------------------------|
-| Loan Nguyen and Kiet Ly | $5,000.00  | Operations Expenses              |
+| Loan Nguyen and Kiet Ly | $7,000.00  | Operations Expenses              |
 | Kim Ly                  | $10,500.00 | TBD                              |
 | Loan Nguyen             | $13,000.00 | As needed                        |
 | Kiet Ly                 | $5,000.00  | As needed                        | 
@@ -126,7 +126,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 | Donor Name                                 | Amount    | Mission                                                                                                |
 |--------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------|
-| Loan Nguyen and Kiet Ly                    | $7000.00  | Operations Expenses                                                                                    |
+| Loan Nguyen and Kiet Ly                    | $7,000.00 | Operations Expenses                                                                                    |
 | Dr. Phatco Nguyen                          | $5,550.00 | 1 India Farm Well, Half Bridge, VN Food/Supplies/Gifts                                                 |
 | Loan Nguyen                                | $7,000.00 | Half India Farm Well, 1 India Home Well, Quarter Bridge, Shelter Repairs, VN/India Food/Supplies/Gifts |
 | Kiet Ly                                    | $5,000.00 | Half India Farm Well, Quarter Bridge, VN/India Food/Supplies/Gifts, 10 Students                        |  
@@ -135,7 +135,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Elaine Ly                                  | $250.00   | 1 VN Well                                                                                              |
 | Emmy Ly                                    | $250.00   | 1 VN Well                                                                                              | 
 | Catherine Hoang                            | $100.00   | Combined with Ngoc                                                                                     |  
-| Phuong-Thuy Phan                           | $1101.00  | 3 India Wells, VN Meals/Gifts                                                                          |
+| Phuong-Thuy Phan                           | $1,101.00 | 3 India Wells, VN Meals/Gifts                                                                          |
 | AnhTim Phan                                | $100.00   | VN Meals/Gifts                                                                                         |
 | Paula Luong                                | $400.00   | 1 India Well and VN Meals/Gifts                                                                        |
 | Clarity Government Solutions LLC (Ron Tan) | $1,000.00 | 1 India Farm Well, VN Food/Supplies                                                                    |
@@ -143,7 +143,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Hue Duong                                  | $4,500.00 | 1 VN Bridge                                                                                            |  
 | Thao Tu                                    | $251.00   | 1 VN Well                                                                                              |
 | Phi Dinh Nguyen                            | $250.00   | 1 VN Well                                                                                              |
-| Kim Bang Tran Le                           | $1000.00  | 2 VN wells, Food/Supplies                                                                              |
+| Kim Bang Tran Le                           | $1,000.00 | 2 VN wells, Food/Supplies                                                                              |
 | Thunguyet Le                               | $400.00   | VN Meals/Gifts                                                                                         |
 | QH                                         | $100.00   | VN Meals/Gifts                                                                                         |
 | Thanh Nguyen                               | $100.00   | VN Meals/Gifts                                                                                         |
