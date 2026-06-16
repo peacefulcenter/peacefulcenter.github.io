@@ -20,7 +20,10 @@ permalink: /:basename/
     <h2>Historical Timeline</h2>
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
-
+ <div class="box">
+    <h3>September/October 2026 – Sri Lanka/South India/Vietnam Charity Tours</h3>    
+    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
+ </div>
  <div class="box">
     <h3>May 2026 – Wells Construction</h3>
     <p>We complete the construction of 23 Home Wells in South Vietnam.<br>
