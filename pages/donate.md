@@ -106,7 +106,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Donor Name              | Amount     | Mission                          |
 |-------------------------|------------|----------------------------------|
 | Loan Nguyen and Kiet Ly | $7,000.00  | Operations Expenses              |
-| Kim Ly                  | $10,500.00 | TBD                              |
+| Kim Ly                  | $10,500.00 | VN Food/Supplies/Gifts/Wells     |
 | Loan Nguyen             | $13,000.00 | As needed                        |
 | Kiet Ly                 | $5,000.00  | As needed                        | 
 | Ngoc Nguyen             | $3,850.00  | 12 VN Wells, India Food/Supplies | 
@@ -119,7 +119,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Jeffrey Rosenberg       | $250.00    | VN Well                          |
 | Ha Hoang                | $400.00    | India Student Sponsor            |
 | Tam Thi Nguyen          | $600.00    | India Home Wells                 |
-| Hung Ly & Nhan Pham     | $200.00    | India Food/Supplies                 |
+| Hung Ly & Nhan Pham     | $200.00    | India Food/Supplies              |
 
 
 ## Thank You to Our Donors – 2025 Projects
