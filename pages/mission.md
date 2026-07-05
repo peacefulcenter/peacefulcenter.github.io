@@ -25,9 +25,12 @@ permalink: /:basename/
     <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
  </div>
  <div class="box">
+    <h3>July 2026 – Wells Construction</h3>
+    <p>We start the construction of 5 Home wells in India and 5 Home Wells in AnGiang, Vietnam</p>
+  </div>
+ <div class="box">
     <h3>May 2026 – Wells Construction</h3>
-    <p>We complete the construction of 23 Home Wells in South Vietnam.<br>
-    We start construction of 2 wells in India.</p>
+    <p>We complete the construction of 13 Home Wells in South Vietnam and 2 Home wells in India.</p>
   </div>
   <div class="box">
     <h3>March 2026 – Vietnam Bridge and Wells Construction</h3>

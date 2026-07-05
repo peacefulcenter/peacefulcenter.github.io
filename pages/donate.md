@@ -103,23 +103,25 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 ## Thank You to Our Donors – 2026 Projects
 
-| Donor Name              | Amount     | Mission                          |
-|-------------------------|------------|----------------------------------|
-| Loan Nguyen and Kiet Ly | $7,000.00  | Operations Expenses              |
-| Kim Ly                  | $10,500.00 | VN Food/Supplies/Gifts/Wells     |
-| Loan Nguyen             | $13,000.00 | As needed                        |
-| Kiet Ly                 | $5,000.00  | As needed                        | 
-| Ngoc Nguyen             | $3,850.00  | 12 VN Wells, India Food/Supplies | 
-| Keith Roberts           | $200.00    | India Food/Supplies              |
-| Thu-Thuy Nguyen         | $300.00    | India Food/Supplies              |
-| Tri Truong & Hong Le    | $1501.00   | India/SriLanka Food/Supplies     | 
-| Thao Tu                 | $300.00    | India Food/Supplies              |
-| Kim-Loan Nguyen         | $3,400.00  | Bridge in VN                     |
-| Hoai Trang              | $100.00    | India Food/Supplies              |
-| Jeffrey Rosenberg       | $250.00    | VN Well                          |
-| Ha Hoang                | $400.00    | India Student Sponsor            |
-| Tam Thi Nguyen          | $600.00    | India Home Wells                 |
-| Hung Ly & Nhan Pham     | $200.00    | India Food/Supplies              |
+| Donor Name                                 | Amount     | Mission                          |
+|--------------------------------------------|------------|----------------------------------|
+| Loan Nguyen and Kiet Ly                    | $7,000.00  | Operations Expenses              |
+| Kim Ly                                     | $10,500.00 | VN Food/Supplies/Gifts/Wells     |
+| Loan Nguyen                                | $13,000.00 | As needed                        |
+| Kiet Ly                                    | $5,000.00  | As needed                        | 
+| Ngoc Nguyen                                | $3,850.00  | 12 VN Wells, India Food/Supplies | 
+| Keith Roberts                              | $200.00    | India Food/Supplies              |
+| Thu-Thuy Nguyen                            | $300.00    | India Food/Supplies              |
+| Tri Truong & Hong Le                       | $1501.00   | India/SriLanka Food/Supplies     | 
+| Thao Tu                                    | $300.00    | India Food/Supplies              |
+| Kim-Loan Nguyen                            | $3,400.00  | Bridge in VN                     |
+| Hoai Trang                                 | $100.00    | India Food/Supplies              |
+| Jeffrey Rosenberg                          | $250.00    | VN Well                          |
+| Ha Hoang                                   | $400.00    | India Student Sponsor            |
+| Tam Thi Nguyen                             | $600.00    | India Home Wells                 |
+| Hung Ly & Nhan Pham                        | $200.00    | India Food/Supplies              |
+| DiemTrinh Khuc                             | $1000.00   | Vietnam Food/Supplies            |
+| Clarity Government Solutions LLC (Ron Tan) | $1500.00   | India Home Wells                 |
 
 
 ## Thank You to Our Donors – 2025 Projects
