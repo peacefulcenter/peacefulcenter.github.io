@@ -7,11 +7,10 @@ permalink: /:basename/
 <section id="one">
   <header class="major">
     <h2>Photo Library</h2>
-    <p><a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv">   Before</a><br>
-       <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem">   Progress</a><br>
-       <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">   Completion</a><br>
-       <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">   Charities</a><br>
-       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">   Education</a></p>
+    <p>       
+       <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">   Construction Completion</a> (<a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv">   Before</a>, <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem">   Progress</a>)<br>
+       <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">   Charity Trip</a><br>
+       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">   Education Support</a></p>
   </header>  
 </section>
 
