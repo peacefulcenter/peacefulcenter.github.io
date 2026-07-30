@@ -17,8 +17,8 @@ permalink: /:basename/
 <section id="two">
   <header class="major">
     <h2>Wellness</h2>
-     <p><a href="https://drive.google.com/file/d/10he5ZIJHhHTzdCASJp045Xr1_cD9-vaD/view?usp=drive_link"> iEat Blog</a>  
-        <a href="https://drive.google.com/file/d/1xQuiSD7lAVpBo5NB79CbJ2MRY9Kzk24w/view?usp=drive_link"> (Vietnamese)</a></p>
+     <p><a href="https://drive.google.com/file/d/10he5ZIJHhHTzdCASJp045Xr1_cD9-vaD/view?usp=drive_link">iEat Blog</a> ( 
+        <a href="https://drive.google.com/file/d/1xQuiSD7lAVpBo5NB79CbJ2MRY9Kzk24w/view?usp=drive_link"> Vietnamese Version</a>)</p>
   </header>  
 </section>
 
