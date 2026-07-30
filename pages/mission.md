@@ -7,10 +7,13 @@ permalink: /:basename/
 <section id="one">
   <header class="major">
     <h2>Photo Library</h2>
-    <p>       
-       <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">   Infrastructure Construction</a> (<a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv">   Initial</a>, <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem">   Progress</a>)<br>
-       <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">   Charity Trips</a><br>
-       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">   Education Support</a></p>
+     <p>       
+       <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Construction</a> (<a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv">   Initial</a>, <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem">   Progress</a>)<br>
+       <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charity</a><br>
+       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">Education</a></p>
+   <h3>Articles</h3>
+     <p>iEat Blog: <a href="https://drive.google.com/file/d/10he5ZIJHhHTzdCASJp045Xr1_cD9-vaD/view?usp=drive_link">English</a> -  
+                   <a href="https://drive.google.com/file/d/1xQuiSD7lAVpBo5NB79CbJ2MRY9Kzk24w/view?usp=drive_link">Vietnamese</a></p>
   </header>  
 </section>
 
