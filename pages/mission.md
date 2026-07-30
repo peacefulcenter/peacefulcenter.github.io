@@ -24,11 +24,11 @@ permalink: /:basename/
     <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
  </div>
  <div class="box">
-    <h3>July 2026 – Wells Construction</h3>
+    <h3>July 2026 – India Wells Construction</h3>
     <p>We complete the construction of 7 Home wells in India</p>
   </div>
  <div class="box">
-    <h3>May 2026 – Wells Construction</h3>
+    <h3>May 2026 – Vietnam Wells Construction</h3>
     <p>We complete the construction of 13 Home Wells in South Vietnam.</p>
   </div>
   <div class="box">
