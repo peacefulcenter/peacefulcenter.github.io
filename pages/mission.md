@@ -10,14 +10,20 @@ permalink: /:basename/
      <p>       
        <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Construction</a> (<a href="https://drive.google.com/drive/folders/1wzfa1RDzTdnpoWG3ZRYGOedoZyXQ1ezv">   Initial</a>, <a href="https://drive.google.com/drive/folders/1JLPeR27HfITN7KO9gIios0wG1VCL3eem">   Progress</a>)<br>
        <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charity</a><br>
-       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">Education</a></p>
-   <h3>Articles</h3>
-     <p>iEat Blog: <a href="https://drive.google.com/file/d/10he5ZIJHhHTzdCASJp045Xr1_cD9-vaD/view?usp=drive_link">English</a> -  
-                   <a href="https://drive.google.com/file/d/1xQuiSD7lAVpBo5NB79CbJ2MRY9Kzk24w/view?usp=drive_link">Vietnamese</a></p>
+       <a href="https://drive.google.com/drive/folders/19-LpZ4nbAk3k9s-B36Wbp_H64DODMIbp">Education</a></p>    
   </header>  
 </section>
 
 <section id="two">
+  <header class="major">
+    <h2>Wellness</h2>
+     <p><a href="https://drive.google.com/file/d/10he5ZIJHhHTzdCASJp045Xr1_cD9-vaD/view?usp=drive_link"> iEat Blog</a>  
+        <a href="https://drive.google.com/file/d/1xQuiSD7lAVpBo5NB79CbJ2MRY9Kzk24w/view?usp=drive_link"> (Vietnamese)</a></p>
+  </header>  
+</section>
+
+
+<section id="three">
   <header class="major">
     <h2>Historical Timeline</h2>
     <p>Building resilience and promoting wellness one step at a time.</p>
@@ -66,14 +72,10 @@ permalink: /:basename/
     <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
     <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
   </div>
-
-  
-  
- 
-
-
-
 </section>
+
+
+
 <!-- 
 <section id="three">
   <header class="major">
