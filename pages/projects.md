@@ -17,9 +17,9 @@ Combodia: 500 Food Supplies<br>
 
 <details open>
 <summary><strong>2026 Projects (On-Going)</strong></summary>
-$42,101.00 received out of $47,101.00 <a href="https://drive.google.com/file/d/1LXCtfh6jiHJYEHvRjW_3BI2wAVidNmK4/view?usp=drive_link">Progress</a>
-<progress value="42101" max="47101" style="width:100%; height:30px;"></progress>
-Vietnam: 1 Bridge, 18 Home Wells, 1000 hospital meals, 300 Food/Supplies, 5000 Gifts, 2 House Repairs<br>
+$50,502.00 received - Fully Funded <a href="https://drive.google.com/file/d/1LXCtfh6jiHJYEHvRjW_3BI2wAVidNmK4/view?usp=drive_link">Progress</a>
+<progress value="50502" max="50502" style="width:100%; height:30px;"></progress>
+Vietnam: 2 Bridges, 18 Home Wells, 1000 hospital meals, 600 Food/Supplies, 5000 Gifts, 2 Home Repairs<br>
 India: 7 Home Wells, 500 Food/Supplies<br>
 Sri Lanka: 250 Individual Meals and Gifts<br>
 US: Quarterly Food Serving for the Homeless Shelters
