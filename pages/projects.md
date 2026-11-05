@@ -8,7 +8,7 @@ permalink: /:basename/
 <summary><strong>2027 Projects (Planning)</strong></summary>
 $20,500.00 received out of $45,000.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Estimate</a>
 <progress value="20500" max="45000" style="width:100%; height:30px;"></progress>
-Vietnam: 2 Bridges, 20 Home Wells, 1000 hospital meals, 500 Food Supplies, 1 House Repair<br>
+Vietnam: 2 Bridges, 20 Home Wells, 1000 Hospital Meals, 500 Food Supplies, 1 House Repair<br>
 India: 10 Home Wells, 5 Farm Wells, 500 Food/Supplies<br>
 US: 2 Food Serving Events at the Homeless Shelters<br>
 Sri Lanka: 500 Food Supplies<br>
@@ -19,9 +19,9 @@ Combodia: 500 Food Supplies<br>
 <summary><strong>2026 Projects (On-Going)</strong></summary>
 $50,502.00 received - Fully Funded <a href="https://drive.google.com/file/d/1LXCtfh6jiHJYEHvRjW_3BI2wAVidNmK4/view?usp=drive_link">Progress</a>
 <progress value="50502" max="50502" style="width:100%; height:30px;"></progress>
-Vietnam: 2 Bridges, 18 Home Wells, 1000 hospital meals, 600 Food/Supplies, 5000 Gifts, 2 Home Repairs<br>
+Vietnam: 1 Bridge, 18 Home Wells, 1000 Hospital Meals, 600 Food/Supplies, 5000 Gifts, 2 Home Repairs<br>
 India: 7 Home Wells, 500 Food/Supplies<br>
-Sri Lanka: 250 Individual Meals and Gifts<br>
+Nepal: 600 Gifts<br>
 US: Quarterly Food Serving for the Homeless Shelters
 </details>
 

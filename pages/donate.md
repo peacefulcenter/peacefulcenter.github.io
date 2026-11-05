@@ -94,12 +94,13 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 ## Thank You to Our Donors – 2027 Projects
 
-| Donor Name                | Amount     | Mission             |
-|---------------------------|------------|---------------------|
-| Loan Nguyen and Kiet Ly   | $5,000.00  | Operations Expenses |
-| Loan Nguyen               | $15,000.00 | As needed           |
-| Kiet Ly                   | $5,000.00  | As needed           | 
-| Tri Truong & Hong Le      | $500.00    | As needed           | 
+| Donor Name              | Amount     | Mission             |
+|-------------------------|------------|---------------------|
+| Loan Nguyen and Kiet Ly | $5,000.00  | Operations Expenses |
+| Loan Nguyen             | $15,000.00 | As needed           |
+| Kiet Ly                 | $5,000.00  | As needed           | 
+| Tri Truong & Hong Le    | $1,000.00  | As needed           | 
+| Tia Reeds               | $500.00    | As needed           |
 
 
 ## Thank You to Our Donors – 2026 Projects
@@ -113,7 +114,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Ngoc Nguyen                                | $3,850.00  | 12 VN Wells, India Food/Supplies | 
 | Keith Roberts                              | $200.00    | India Food/Supplies              |
 | Thu-Thuy Nguyen                            | $300.00    | India Food/Supplies              |
-| Tri Truong & Hong Le                       | $1501.00   | India/SriLanka Food/Supplies     | 
+| Tri Truong & Hong Le                       | $1501.00   | India/Nepal Food/Supplies        | 
 | Thao Tu                                    | $300.00    | India Food/Supplies              |
 | Kim-Loan Nguyen                            | $3,400.00  | Bridge in VN                     |
 | Hoai Trang                                 | $100.00    | India Food/Supplies              |
@@ -125,7 +126,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Clarity Government Solutions LLC (Ron Tan) | $1500.00   | India Home Wells                 |
 | Kim Loan Nguyen                            | $1001.00   | Vietnam Food/Supplies            |
 | Phuong Huynh                               | $400.00    | Vietnam Food/Supplies            |
-| Phat Co                                    | $10,000.00 | Vietnam Food/Supplies            |
+| Phat Co                                    | $10,000.00 | Vietnam/Nepal Food/Supplies      |
 
 ## Thank You to Our Donors – 2025 Projects
 
