@@ -29,8 +29,8 @@ permalink: /:basename/
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
  <div class="box">
-    <h3>September/October 2026 – Sri Lanka/South India/Vietnam Charity Tours</h3>    
-    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
+    <h3>September/October 2026 – Nepal and Vietnam Charity Tours</h3>    
+    <p>We visited orphanages, cancer patients, hospitals, disabled, elderly, blind, flood victims, and indigenous villagers to distribute food, gifts, and supplies.</p>
  </div>
  <div class="box">
     <h3>July 2026 – India Wells Construction</h3>
