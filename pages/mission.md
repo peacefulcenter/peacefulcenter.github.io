@@ -28,49 +28,52 @@ permalink: /:basename/
     <h2>Historical Timeline</h2>
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
- <div class="box">
+<div class="box">
+    <h3>November/December 2026 – US Homeless Food Supplies</h3>    
+    <p>We provided Bake Turkeys and Fried Rice for Thanksgiving and Christmas meals.</p>
+ </div> 
+<div class="box">
     <h3>September/October 2026 – Nepal and Vietnam Charity Tours</h3>    
     <p>We visited orphanages, cancer patients, hospitals, disabled, elderly, blind, flood victims, and indigenous villagers to distribute food, gifts, and supplies.</p>
  </div>
+<div class="box">
+    <h3>February-September 2026 – Vietnam Bridge Construction</h3>
+    <p>We completed the construction of a bridge in CaMau.</p>
+</div>
  <div class="box">
-    <h3>July 2026 – India Wells Construction</h3>
+    <h3>June-July 2026 – India Wells Construction</h3>
     <p>We complete the construction of 7 Home wells in India</p>
   </div>
- <div class="box">
-    <h3>May 2026 – Vietnam Wells Construction</h3>
-    <p>We complete the construction of 13 Home Wells in South Vietnam.</p>
-  </div>
   <div class="box">
-    <h3>March 2026 – Vietnam Bridge and Wells Construction</h3>
-    <p>We started the construction of 13 Home Wells in Vietnam.<br>
-    We started the construction of 1 Bridge in South Vietnam.</p>
+    <h3>March-May 2026 - Vietnam Wells Construction</h3>
+    <p>We completed the construction of 13 Home Wells in Vietnam.</p>
   </div>
   <div class="box">
     <h3>February 2026 – India Charity Tours</h3>
-    <p>We visit Gaya and Dharamsala to distribute food, medicine, gifts, and supplies.</p>
+    <p>We visited Gaya and Dharamsala to distribute food, medicine, gifts, and supplies.</p>
   </div>
   <div class="box">
     <h3>December 2025 – Vietnam Charity Tours</h3>    
-    <p>We visit orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
+    <p>We visited orphanage, cancer, hospital, disabled, elderly, blind, and indigenous villagers to distribute food, gifts, and supplies.</p>
   </div>
   <div class="box">
     <h3>November 2025 – Vietnam Bridges and Wells Construction</h3>
-    <p>We complete the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
-    We complete the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
+    <p>We completed the construction of 9 Home Wells in GiongRieng-AnGiang, Vietnam.<br>
+    We completed the construction of 2 Bridges in ThanhHung-AnGiang and AnTrach-TayNinh, Vietnam.</p>
   </div>
   <div class="box">
     <h3>October 2025 – India Farm Well Construction</h3>
-    <p>We complete the construction of 3 Farm Wells in Bihar, India. <br>
-        We sponsor a year of study for 10 students in Bihar, India. <br> 
-        We distribute chocolates and monetary to hundreds of children in Gaya, India.</p>
+    <p>We completed the construction of 3 Farm Wells in Bihar, India. <br>
+        We sponsored a year of study for 10 students in Bihar, India. <br> 
+        We distributed chocolates and monetary to hundreds of children in Gaya, India.</p>
   </div>
   <div class="box">
     <h3>September 2025 – India Home Well Construction</h3>
-    <p>We complete the construction of 11 Home Wells in Bihar, India.</p>
+    <p>We completed the construction of 11 Home Wells in Bihar, India.</p>
   </div>
   <div class="box">
     <h3>August 2025 – Launch of the "Peaceful Center" Initiative</h3>
-    <p>We kickstart our 12 projects of 2025 and set up our online presence.</p>
+    <p>We started our 12 projects of 2025 and set up our online presence.</p>
   </div>
 </section>
 
