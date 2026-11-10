@@ -97,7 +97,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Donor Name              | Amount     | Mission             |
 |-------------------------|------------|---------------------|
 | Loan Nguyen and Kiet Ly | $5,000.00  | Operations Expenses |
-| Loan Nguyen             | $15,000.00 | As needed           |
+| Loan Nguyen             | $10,000.00 | As needed           |
 | Kiet Ly                 | $5,000.00  | As needed           |
 | PhatCo Nguyen           | $5,000.00  | As needed           |
 | Tri Truong & Hong Le    | $1,000.00  | As needed           | 
