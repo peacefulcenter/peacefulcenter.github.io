@@ -96,7 +96,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 
 | Donor Name              | Amount     | Mission             |
 |-------------------------|------------|---------------------|
-| Loan Nguyen and Kiet Ly | $5,000.00  | Operations Expenses |
+| Loan Nguyen and Kiet Ly | $7,000.00  | Operations Expenses |
 | Loan Nguyen             | $10,000.00 | As needed           |
 | Kiet Ly                 | $5,000.00  | As needed           |
 | PhatCo Nguyen           | $5,000.00  | As needed           |
@@ -110,7 +110,8 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 |--------------------------------------------|------------|----------------------------------|
 | Loan Nguyen and Kiet Ly                    | $7,000.00  | Operations Expenses              |
 | Kim Ly                                     | $10,500.00 | VN Food/Supplies/Gifts/Wells     |
-| Loan Nguyen                                | $10,000.00 | As needed                        |
+| Phat Co                                    | $10,000.00 | Vietnam/Nepal Food/Supplies      |
+| Loan Nguyen                                | $6,000.00  | As needed                        |
 | Kiet Ly                                    | $5,000.00  | As needed                        | 
 | Ngoc Nguyen                                | $3,850.00  | 12 VN Wells, India Food/Supplies | 
 | Keith Roberts                              | $200.00    | India Food/Supplies              |
@@ -127,7 +128,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Clarity Government Solutions LLC (Ron Tan) | $1500.00   | India Home Wells                 |
 | Kim Loan Nguyen                            | $1001.00   | Vietnam Food/Supplies            |
 | Phuong Huynh                               | $400.00    | Vietnam Food/Supplies            |
-| Phat Co                                    | $10,000.00 | Vietnam/Nepal Food/Supplies      |
+
 
 ## Thank You to Our Donors – 2025 Projects
 
