@@ -29,7 +29,7 @@ permalink: /:basename/
     <p>Building resilience and promoting wellness one step at a time.</p>
   </header>
 <div class="box">
-    <h3>November/December 2026 – US Homeless Food Supplies</h3>    
+    <h3>November/December 2026 – US Homeless Meals</h3>    
     <p>We provide Baked Turkeys and Fried Rice for Thanksgiving and Christmas meals.</p>
  </div> 
 <div class="box">
