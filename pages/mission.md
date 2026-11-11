@@ -30,7 +30,7 @@ permalink: /:basename/
   </header>
 <div class="box">
     <h3>November/December 2026 – US Homeless Food Supplies</h3>    
-    <p>We provided Bake Turkeys and Fried Rice for Thanksgiving and Christmas meals.</p>
+    <p>We provide Baked Turkeys and Fried Rice for Thanksgiving and Christmas meals.</p>
  </div> 
 <div class="box">
     <h3>September/October 2026 – Nepal and Vietnam Charity Tours</h3>    
