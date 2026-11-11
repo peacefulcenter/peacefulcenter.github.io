@@ -6,18 +6,20 @@ permalink: /:basename/
 ---
 <details open>
 <summary><strong>2027 Projects (Planning)</strong></summary>
-$21,500.00 received out of $45,000.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Estimate</a>
-<progress value="21500" max="45000" style="width:100%; height:30px;"></progress>
-Vietnam: 1 Bridge, 10 Home Wells, 1000 Hospital Meals, 500 Food Supplies, 1 House<br>
-India: 10 Home Wells, 500 Food/Supplies<br>
-US: 2 Food Serving Events at the Homeless Shelters<br>
-Sri Lanka: 500 Food Supplies<br>
-Nepal: 500 Food Supplies<br>
+$21,500.00 received out of $46,500.00 <a href="https://drive.google.com/file/d/1ZLWiRbpbOVrAYo85TWv_r58hOM6NNrlo/view?usp=sharing">Estimate</a>
+<progress value="21500" max="46500" style="width:100%; height:30px;"></progress>
+Vietnam: 1 Bridge, 10 Home Wells, 1000 Hospital Meals, 1000 Food Supplies, 1 House<br>
+India: 10 Home Wells, 300 Food/Supplies<br>
+US: 10 Meals to the Homeless Shelters<br>
+Sri Lanka: 300 Food Supplies<br>
+Nepal: 300 Food Supplies<br>
 </details>
 
 <details open>
-<summary><strong>2026 Projects (On-Going)</strong></summary>
-$46,502.00 received - Fully Funded <a href="https://drive.google.com/file/d/1LXCtfh6jiHJYEHvRjW_3BI2wAVidNmK4/view?usp=drive_link">Progress</a>
+<summary><strong>2026 Projects (Completed)</strong></summary>
+$46,502.00 Spent on  
+    <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charities</a> and
+    <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Constructions</a>
 <progress value="46502" max="46502" style="width:100%; height:30px;"></progress>
 Vietnam: 1 Bridge, 13 Home Wells, 1000 Hospital Meals, 600 Food/Supplies, 5000 Gifts, 2 Home Repairs<br>
 India: 7 Home Wells, 500 Food/Supplies<br>
