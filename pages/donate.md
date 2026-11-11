@@ -111,7 +111,7 @@ _Peaceful Mind 501C3 is a tax-exempt organization. Tax ID: 39-2930680. Your dona
 | Loan Nguyen and Kiet Ly                    | $7,000.00  | Operations Expenses              |
 | Kim Ly                                     | $10,500.00 | VN Food/Supplies/Gifts/Wells     |
 | Phat Co                                    | $10,000.00 | Vietnam/Nepal Food/Supplies      |
-| Loan Nguyen                                | $6,000.00  | As needed                        |
+| Loan Nguyen                                | $6,650.00  | As needed                        |
 | Kiet Ly                                    | $5,000.00  | As needed                        | 
 | Ngoc Nguyen                                | $3,850.00  | 12 VN Wells, India Food/Supplies | 
 | Keith Roberts                              | $200.00    | India Food/Supplies              |

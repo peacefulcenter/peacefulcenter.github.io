@@ -17,10 +17,10 @@ Nepal: 300 Food Supplies<br>
 
 <details open>
 <summary><strong>2026 Projects (Completed)</strong></summary>
-$46,502.00 Spent on  
+$47,152.00 Spent on  
     <a href="https://drive.google.com/drive/folders/1cs1VusJQGjtzoyAF1AnZqiuJilK5scGM">Charities</a> and
     <a href="https://drive.google.com/drive/folders/191g2O97Mdgr-H-4ux4AWz3RflHuF5e16">Constructions</a>
-<progress value="46502" max="46502" style="width:100%; height:30px;"></progress>
+<progress value="47152" max="47152" style="width:100%; height:30px;"></progress>
 Vietnam: 1 Bridge, 13 Home Wells, 1000 Hospital Meals, 600 Food/Supplies, 5000 Gifts, 2 Home Repairs<br>
 India: 7 Home Wells, 500 Food/Supplies<br>
 Nepal: 600 Gifts<br>
